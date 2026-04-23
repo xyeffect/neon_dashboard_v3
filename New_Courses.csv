@@ -1,0 +1,201 @@
+Course ID,Course Name,Term Name,Seat Goal,Seat Capacity,Status,Start Date,Subject
+a0RDo000001ONS8MAO,Course61,Fall 2019,500,500,Archived,,English
+a0RDo000001ONRnMAO,Course63,Fall 2020,,,Archived,,English
+a0RDo000001ONSBMA4,Course64,Fall 2020,,,Archived,,History and Civics
+a0RDo000001ONSYMA4,Course25,Fall 2021,,,Archived,,Business
+a0RDo000001ONRrMAO,Course35,Fall 2021,,,Archived,,Computer Science and Technology
+a0RDo000001ONSMMA4,Course36,Fall 2021,,,Archived,,Computer Science and Technology
+a0RDo000001ONRvMAO,Course42,Fall 2021,,,Archived,,Business
+a0RDo000001ONS5MAO,Course54,Fall 2021,,,Archived,,History and Civics
+a0RDo000001ONRoMAO,Course63,Fall 2021,1500,1500,Archived,,English
+a0RDo000001ONSCMA4,Course64,Fall 2021,225,225,Archived,,History and Civics
+a0RDo000001ONSXMA4,Course83,Fall 2021,,,Archived,,English
+a0RDo000001ONSFMA4,Course13,Fall 2022,,,Archived,2022-09-12,Math
+a0RDo000001ONS9MAO,Course24,Fall 2022,300,300,Archived,2022-09-12,Psychology and Sociology
+a0RDo000001ONSZMA4,Course25,Fall 2022,250,250,Archived,2022-09-12,Business
+a0RDo000001ONSWMA4,Course29,Fall 2022,100,100,Archived,2022-09-12,Science
+a0RDo000001ONSSMA4,Course31,Fall 2022,1000,1000,Archived,2022-09-12,Psychology and Sociology
+a0RDo000001ONRsMAO,Course35,Fall 2022,,,Archived,2022-09-12,Computer Science and Technology
+a0RDo000001ONSNMA4,Course36,Fall 2022,250,250,Archived,2022-09-26,Computer Science and Technology
+a0RDo000001ONRwMAO,Course42,Fall 2022,200,200,Archived,2022-09-12,Business
+a0RDo000001ONRjMAO,Course51,Fall 2022,500,500,Archived,2022-09-12,Psychology and Sociology
+a0RDo000001ONS0MAO,Course52,Fall 2022,100,100,Archived,2022-09-12,English
+a0RDo000001ONS6MAO,Course54,Fall 2022,300,300,Archived,2022-09-12,History and Civics
+a0RDo000001ONRpMAO,Course63,Fall 2022,1000,1000,Archived,2022-09-13,English
+a0RDo000000dQDXMA2,Course13,Fall 2023,400,480,Archived,2023-09-11,Math
+a0RDo000000dQDUMA2,Course17,Fall 2023,40,50,Archived,2023-09-11,Math
+a0RDo000000dQDYMA2,Course24,Fall 2023,300,360,Archived,2023-09-11,Psychology and Sociology
+a0RDo000000dQDxMAM,Course25,Fall 2023,500,600,Archived,2023-09-11,Business
+a0RDo000000dQCyMAM,Course35,Fall 2023,750,750,Archived,2023-09-11,Computer Science and Technology
+a0RDo000000dQDaMAM,Course36,Fall 2023,200,300,Archived,2023-09-26,Computer Science and Technology
+a0RDo000000dQDdMAM,Course42,Fall 2023,250,300,Archived,2023-09-11,Business
+a0RDo000000eQlSMAU,Course43,Fall 2023,100,120,Archived,2023-09-11,Computer Science and Technology
+a0RDo000000dQD8MAM,Course51,Fall 2023,750,750,Archived,2023-09-11,Psychology and Sociology
+a0RDo000000dQDTMA2,Course52,Fall 2023,200,240,Archived,2023-09-11,English
+a0RDo000000e2ocMAA,Course53,Fall 2023,100,120,Archived,2023-09-11,History and Civics
+a0RDo000000dQDtMAM,Course54,Fall 2023,300,360,Archived,2023-09-11,History and Civics
+a0RDo000000dQCPMA2,Course63,Fall 2023,1000,1000,Archived,2023-09-11,English
+a0RDo000001AckVMAS,Course75,Fall 2023,100,120,Archived,2023-09-11,Psychology and Sociology
+a0RDo000000dQDzMAM,Course9,Fall 2023,100,120,Archived,2023-09-11,Science
+a0RPm000009Y7jUMAS,Course10,Fall 2024,250,300,Archived,2024-09-09,History and Civics
+a0RPm000006hB6WMAU,Course13,Fall 2024,400,480,Archived,2024-09-09,Math
+a0RPm000006hB6ZMAU,Course15,Fall 2024,250,300,Archived,2024-09-09,Math
+a0RPm000006hB6bMAE,Course25,Fall 2024,500,600,Archived,2024-09-09,Business
+a0RPm000006hB6VMAU,Course34,Fall 2024,350,400,Archived,2024-09-09,Business
+a0RPm000006h6wNMAQ,Course35,Fall 2024,500,600,Archived,2024-09-09,Computer Science and Technology
+a0RPm000006h6wRMAQ,Course36,Fall 2024,250,300,Archived,2024-09-23,Computer Science and Technology
+a0RPm000006hB6SMAU,Course38,Fall 2024,100,120,Archived,2024-09-09,Science
+a0RPm000006hB6XMAU,Course39,Fall 2024,400,480,Archived,2024-09-09,Science
+a0RPm000006hB6YMAU,Course40,Fall 2024,250,300,Archived,2024-09-09,Business
+a0RPm000006hB6RMAU,Course42,Fall 2024,250,300,Archived,2024-09-09,Business
+a0RPm000006h6wTMAQ,Course43,Fall 2024,250,300,Archived,2024-09-09,Computer Science and Technology
+a0RPm000006h6wOMAQ,Course51,Fall 2024,1000,1200,Archived,2024-09-09,Psychology and Sociology
+a0RPm000006hB6TMAU,Course52,Fall 2024,200,240,Archived,2024-09-09,English
+a0RPm000006h6wUMAQ,Course53,Fall 2024,320,400,Archived,2024-09-09,History and Civics
+a0RPm000006h6wPMAQ,Course54,Fall 2024,250,300,Archived,2024-09-09,History and Civics
+a0RPm000006hB6QMAU,Course63,Fall 2024,1000,1200,Archived,2024-09-10,English
+a0RPm000007TBiRMAW,Course74,Fall 2024,250,300,Archived,2024-09-09,Business
+a0RPm000006h6wQMAQ,Course75,Fall 2024,325,390,Archived,2024-09-09,Psychology and Sociology
+a0RPm000006hB6UMAU,Course9,Fall 2024,250,300,Archived,2024-09-09,Science
+a0RPm00000EuUD3MAN,Course1,Fall 2025,250,300,Archived,2025-09-08,History and Civics
+a0RPm00000EtKPRMA3,Course11,Fall 2025,250,300,Archived,2025-09-08,History and Civics
+a0RPm00000EudJZMAZ,Course13,Fall 2025,450,500,Archived,2025-09-08,Math
+a0RPm00000EudLBMAZ,Course15,Fall 2025,300,300,Archived,2025-09-08,Math
+a0RPm00000EueHFMAZ,Course2,Fall 2025,130,150,Archived,2025-09-08,History and Civics
+a0RPm00000GK6MbMAL,Course25,Fall 2025,500,600,Archived,2025-09-08,Business
+a0RPm00000EuYyhMAF,Course34,Fall 2025,500,600,Archived,2025-09-08,Business
+a0RPm00000EtJZpMAN,Course35,Fall 2025,500,600,Archived,2025-09-08,Computer Science and Technology
+a0RPm00000EtIIqMAN,Course38,Fall 2025,200,200,Archived,2025-09-08,Science
+a0RPm00000EudY5MAJ,Course39,Fall 2025,250,300,Archived,2025-09-08,Science
+a0RPm00000EtBBNMA3,Course42,Fall 2025,400,480,Archived,2025-09-08,Business
+a0RPm00000EueVlMAJ,Course43,Fall 2025,430,530,Archived,2025-09-08,Computer Science and Technology
+a0RPm00000EudZhMAJ,Course44,Fall 2025,300,350,Archived,2025-09-08,Psychology and Sociology
+a0RPm00000EuXm1MAF,Course50,Fall 2025,250,300,Archived,2025-09-08,Math
+a0RPm00000EtIXQMA3,Course51,Fall 2025,900,1080,Archived,2025-09-08,Psychology and Sociology
+a0RPm00000EtKcLMAV,Course52,Fall 2025,200,200,Archived,2025-09-08,English
+a0RPm00000EueXNMAZ,Course53,Fall 2025,550,600,Archived,2025-09-08,History and Civics
+a0RPm00000EtLWnMAN,Course54,Fall 2025,350,420,Archived,2025-09-08,History and Civics
+a0RPm00000EzN7hMAF,Course55,Fall 2025,250,300,Archived,2025-09-08,Math
+a0RPm00000Eud1pMAB,Course56,Fall 2025,100,150,Archived,2025-09-08,Math
+a0RPm00000FLryLMAT,Course60,Fall 2025,320,385,Archived,2025-09-08,Business
+a0RPm00000GWFqjMAH,Course66,Fall 2025,100,150,Archived,2025-09-08,Science
+a0RPm00000Fb0EnMAJ,Course7,Fall 2025,150,200,Archived,2025-09-08,History and Civics
+a0RPm00000EtJLJMA3,Course71,Fall 2025,850,1020,Archived,2025-09-09,English
+a0RPm00000FA7Z3MAL,Course72,Fall 2025,250,300,Archived,2025-09-08,Computer Science and Technology
+a0RPm00000Ey9unMAB,Course74,Fall 2025,350,420,Archived,2025-09-08,Business
+a0RPm00000Eue17MAB,Course75,Fall 2025,325,390,Archived,2025-09-08,Psychology and Sociology
+a0RPm00000GEEBZMA5,Course9,Fall 2025,200,220,Archived,2025-09-08,Science
+a0RDo000001ONRTMA4,Course37,Spring 2020,,,Archived,,Computer Science and Technology
+a0RDo000001ONSAMA4,Course24,Spring 2021,,,Archived,,Psychology and Sociology
+a0RDo000001ONS1MAO,Course5,Spring 2021,,,Archived,,Computer Science and Technology
+a0RDo000001ONRqMAO,Course63,Spring 2021,,,Archived,,English
+a0RDo000001ONSbMAO,Course67,Spring 2021,,,Archived,,Psychology and Sociology
+a0RDo000001ONSGMA4,Course13,Spring 2022,,,Archived,2022-02-02,Math
+a0RDo000001ONRtMAO,Course35,Spring 2022,,,Archived,2022-02-02,Computer Science and Technology
+a0RDo000001ONRxMAO,Course42,Spring 2022,,,Archived,2022-02-02,Business
+a0RDo000001ONSUMA4,Course45,Spring 2022,,,Archived,2022-01-31,Psychology and Sociology
+a0RDo000001ONS2MAO,Course5,Spring 2022,,,Archived,2022-02-02,Computer Science and Technology
+a0RDo000001ONS7MAO,Course54,Spring 2022,,,Archived,2022-02-02,History and Civics
+a0RDo000001ONRlMAO,Course62,Spring 2022,,,Archived,2022-02-08,English
+a0RDo000001ONSDMA4,Course64,Spring 2022,225,,Archived,2022-02-01,History and Civics
+a0RDo000001ONSOMA4,Course69,Spring 2022,,,Archived,2022-03-07,English
+a0RDo000001ONSQMA4,Course73,Spring 2022,,,Archived,2022-01-24,History and Civics
+a0RDo000001ONSJMA4,Course85,Spring 2022,,,Archived,2022-02-02,History and Civics
+a0RDo000001ONSHMA4,Course13,Spring 2023,,,Archived,2023-02-06,Math
+a0RDo000001ONS3MAO,Course23,Spring 2023,100,120,Archived,2023-02-06,Science
+a0RDo000001ONSaMAO,Course25,Spring 2023,350,350,Archived,2023-02-06,Business
+a0RDo000001ONSTMA4,Course31,Spring 2023,1000,,Archived,2023-02-06,Psychology and Sociology
+a0RDo000001ONS4MAO,Course32,Spring 2023,100,120,Archived,2023-02-06,History and Civics
+a0RDo000001ONSLMA4,Course33,Spring 2023,200,240,Archived,2023-02-06,Computer Science and Technology
+a0RDo000001ONRuMAO,Course35,Spring 2023,,,Archived,2023-02-06,Computer Science and Technology
+a0RDo000001ONRzMAO,Course41,Spring 2023,100,120,Archived,2023-02-06,English
+a0RDo000001ONRyMAO,Course42,Spring 2023,,200,Archived,2023-02-06,Business
+a0RDo000001ONSVMA4,Course45,Spring 2023,400,480,Archived,2023-02-06,Psychology and Sociology
+a0RDo000001ONRkMAO,Course51,Spring 2023,,500,Archived,2023-02-06,Psychology and Sociology
+a0RDo000001ONRmMAO,Course62,Spring 2023,,1000,Archived,2023-02-07,English
+a0RDo000001ONSEMA4,Course64,Spring 2023,400,480,Archived,2023-02-06,History and Civics
+a0RDo000001ONSPMA4,Course69,Spring 2023,100,120,Archived,2023-02-06,English
+a0RDo000001ONSRMA4,Course73,Spring 2023,100,120,Archived,2023-02-06,History and Civics
+a0RDo000001ONSKMA4,Course82,Spring 2023,100,120,Archived,2023-02-06,History and Civics
+a0RDo00000062VjMAI,Course11,Spring 2024,100,120,Archived,2024-02-05,History and Civics
+a0RDo000001OL2ZMAW,Course13,Spring 2024,400,480,Archived,2024-02-05,Math
+a0RDo000000dQDfMAM,Course23,Spring 2024,400,400,Archived,2024-02-05,Science
+a0RDo000001OL29MAG,Course25,Spring 2024,500,600,Archived,2024-02-05,Business
+a0RDo000000d9CdMAI,Course31,Spring 2024,750,750,Archived,2024-02-05,Psychology and Sociology
+a0RDo000000d5ySMAQ,Course32,Spring 2024,100,120,Archived,2024-02-05,History and Civics
+a0RDo000000dQDnMAM,Course33,Spring 2024,75,75,Archived,2024-02-05,Computer Science and Technology
+a0RDo000001OL2JMAW,Course35,Spring 2024,750,750,Archived,2024-02-05,Computer Science and Technology
+a0RDo000000e2oXMAQ,Course4,Spring 2024,150,150,Archived,2024-02-05,History and Civics
+a0RDo000000dQDeMAM,Course41,Spring 2024,200,240,Archived,2024-02-06,English
+a0RDo000001OL2fMAG,Course42,Spring 2024,250,300,Archived,2024-02-05,Business
+a0RDo000000dQDoMAM,Course45,Spring 2024,500,500,Archived,2024-02-05,Psychology and Sociology
+a0RDo000001Aq1aMAC,Course47,Spring 2024,100,120,Archived,2024-02-06,History and Civics
+a0RDo000000dQDbMAM,Course48,Spring 2024,100,100,Archived,2024-02-05,Psychology and Sociology
+a0RDo000000e2ohMAA,Course49,Spring 2024,100,120,Archived,2024-02-05,Psychology and Sociology
+a0RDo000001OL2oMAG,Course51,Spring 2024,750,750,Archived,2024-02-05,Psychology and Sociology
+a0RDo000000dQDIMA2,Course62,Spring 2024,1000,1000,Archived,2024-02-06,English
+a0RDo000000dQDiMAM,Course64,Spring 2024,300,360,Archived,2024-02-05,History and Civics
+a0RDo000001AckkMAC,Course65,Spring 2024,100,120,Archived,2024-02-05,English
+a0RDo000000dQDmMAM,Course73,Spring 2024,120,150,Archived,2024-02-05,History and Civics
+a0RDo000000dQDkMAM,Course82,Spring 2024,200,240,Archived,2024-02-05,History and Civics
+a0RDo000001OL2KMAW,Course9,Spring 2024,200,200,Archived,2024-02-05,Science
+a0RPm000006h6wXMAQ,Course11,Spring 2025,300,360,Archived,2025-02-03,History and Civics
+a0RPm000006hB6hMAE,Course13,Spring 2025,400,480,Archived,2025-02-03,Math
+a0RPm000006hB6iMAE,Course16,Spring 2025,250,300,Archived,2025-02-03,Math
+a0RPm000006hB6lMAE,Course21,Spring 2025,150,180,Archived,2025-02-03,English
+a0RPm000006hB6fMAE,Course23,Spring 2025,400,480,Archived,2025-02-03,Science
+a0RPm000006hB6nMAE,Course25,Spring 2025,500,600,Archived,2025-02-03,Business
+a0RPm000006hB6aMAE,Course3,Spring 2025,250,300,Archived,2025-02-03,Science
+a0RPm000007TGlKMAW,Course31,Spring 2025,200,200,Archived,2025-02-03,Psychology and Sociology
+a0RPm000006h6wZMAQ,Course32,Spring 2025,250,300,Archived,2025-02-03,History and Civics
+a0RPm00000DZeEPMA1,Course33,Spring 2025,150,180,Archived,2025-02-03,Computer Science and Technology
+a0RPm000006h6wVMAQ,Course35,Spring 2025,500,600,Archived,2025-02-03,Computer Science and Technology
+a0RPm000006h6wcMAA,Course4,Spring 2025,200,250,Archived,2025-02-03,History and Civics
+a0RPm000006hB6jMAE,Course40,Spring 2025,250,300,Archived,2025-02-03,Business
+a0RPm000006hB6eMAE,Course41,Spring 2025,200,200,Archived,2025-02-03,English
+a0RPm000006hB6dMAE,Course42,Spring 2025,250,300,Archived,2025-02-03,Business
+a0RPm000008fH9yMAE,Course44,Spring 2025,250,300,Archived,2025-02-03,Psychology and Sociology
+a0RPm000006h6wdMAA,Course45,Spring 2025,750,900,Archived,2025-02-03,Psychology and Sociology
+a0RPm000006h6wYMAQ,Course47,Spring 2025,200,200,Archived,2025-02-03,History and Civics
+a0RPm000006h6weMAA,Course48,Spring 2025,200,240,Archived,2025-02-03,Psychology and Sociology
+a0RPm00000DQNXlMAP,Course50,Spring 2025,250,300,Archived,2025-02-03,Math
+a0RPm000006h6wWMAQ,Course51,Spring 2025,650,1200,Archived,2025-02-03,Psychology and Sociology
+a0RPm000007TJMbMAO,Course59,Spring 2025,100,120,Archived,2025-02-03,History and Civics
+a0RPm000006hB6cMAE,Course62,Spring 2025,650,1200,Archived,2025-02-04,English
+a0RPm000006hB6kMAE,Course65,Spring 2025,250,300,Archived,2025-02-03,English
+a0RPm000006h6wbMAA,Course73,Spring 2025,150,200,Archived,2025-02-03,History and Civics
+a0RPm000006h6waMAA,Course79,Spring 2025,265,318,Archived,2025-02-03,Computer Science and Technology
+a0RPm000008u8xcMAA,Course80,Spring 2025,250,300,Archived,2025-02-03,English
+a0RPm00000BaxT4MAJ,Course82,Spring 2025,300,360,Archived,2025-02-03,History and Civics
+a0RPm00000EKWWjMAP,Course9,Spring 2025,100,120,Archived,2025-02-03,Science
+a0RPm00000EtKXVMA3,Course11,Spring 2026,300,360,Active,2026-02-02,History and Civics
+a0RPm00000EuRjJMAV,Course13,Spring 2026,450,500,Active,2026-02-02,Math
+a0RPm00000EudOPMAZ,Course16,Spring 2026,300,300,Active,2026-02-02,Math
+a0RPm00000Lsuh4MAB,Course19,Spring 2026,500,600,Active,2026-02-02,English
+a0RPm00000EuaJuMAJ,Course21,Spring 2026,340,420,Active,2026-02-02,English
+a0RPm00000EuavCMAR,Course23,Spring 2026,400,480,Active,2026-02-02,Science
+a0RPm00000GK6JNMA1,Course25,Spring 2026,500,600,Active,2026-02-02,Business
+a0RPm00000Euep7MAB,Course29,Spring 2026,150,180,Active,2026-02-02,Science
+a0RPm00000EueKTMAZ,Course3,Spring 2026,250,250,Active,2026-02-02,Science
+a0RPm00000HLUEDMA5,Course30,Spring 2026,100,120,Active,2026-02-02,Business
+a0RPm00000EtLbdMAF,Course32,Spring 2026,275,330,Active,2026-02-02,History and Civics
+a0RPm00000EtJmjMAF,Course35,Spring 2026,500,600,Active,2026-02-02,Computer Science and Technology
+a0RPm00000GNUSPMA5,Course40,Spring 2026,250,300,Active,2026-02-02,Business
+a0RPm00000EtLIHMA3,Course41,Spring 2026,200,200,Active,2026-02-02,English
+a0RPm00000EtKCXMA3,Course42,Spring 2026,400,480,Active,2026-02-02,Business
+a0RPm00000EueYzMAJ,Course45,Spring 2026,750,900,Active,2026-02-02,Psychology and Sociology
+a0RPm00000EtLOjMAN,Course47,Spring 2026,200,200,Active,2026-02-02,History and Civics
+a0RPm00000Ey9gHMAR,Course48,Spring 2026,300,360,Active,2026-02-02,Psychology and Sociology
+a0RPm00000EtJpxMAF,Course51,Spring 2026,900,1080,Active,2026-02-02,Psychology and Sociology
+a0RPm00000KlSWsMAN,Course53,Spring 2026,250,300,Active,2026-02-02,History and Civics
+a0RPm00000HLU2vMAH,Course57,Spring 2026,200,240,Active,2026-02-02,Psychology and Sociology
+a0RPm00000EtLoXMAV,Course59,Spring 2026,100,120,Active,2026-02-02,History and Civics
+a0RPm00000FLmx4MAD,Course60,Spring 2026,250,300,Active,2026-02-02,Business
+a0RPm00000Eue5xMAB,Course65,Spring 2026,250,300,Active,2026-02-02,English
+a0RPm00000EudhlMAB,Course79,Spring 2026,350,420,Active,2026-02-02,Computer Science and Technology
+a0RPm00000IxvSvMAJ,Course8,Spring 2026,200,220,Active,2026-02-02,History and Civics
+a0RPm00000Eue9BMAR,Course80,Spring 2026,250,300,Active,2026-02-02,English
+a0RPm00000EuUubMAF,Course81,Spring 2026,250,300,Active,2026-02-02,History and Civics
+a0RPm00000EuTs5MAF,Course82,Spring 2026,400,480,Active,2026-02-02,History and Civics
+a0RPm00000GEEEnMAP,Course9,Spring 2026,285,350,Active,2026-02-02,Science
+a0RDo000001ONSIMA4,Course84,Summer 2022,,,Archived,,

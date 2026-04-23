@@ -1,0 +1,864 @@
+Course Allocation ID,Course Name,University Name,School Name,Enrollment Count,Term Name,End Status,Starting Stage,Next Stage After Start Stage,Date of Change,Admissions Drop Date,Start Date,Days_Before_Start,Allocation_Duration_Days
+a0QPm00000TlrUoMAJ,Course51,University1,School199,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-25,2025-03-28,2026-02-02,311.0,31.0
+a0QPm00000Tlvi5MAB,Course60,University1,School233,3,Spring 2026,Dropped,Offered,Accepted,2025-02-25,,2026-02-02,,
+a0QPm00000Tqc2CMAR,Course70,University1,School374,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-25,2025-11-21,,,269.0
+a0QPm00000TqqI0MAJ,Course4,University15,School391,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-25,2025-11-03,,,251.0
+a0QPm00000TrE8zMAF,Course4,University15,School374,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-25,2025-10-31,,,248.0
+a0QPm00000TmN1dMAF,Course45,University24,School595,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-26,2025-04-07,2026-02-02,301.0,40.0
+a0QPm00000TjjEoMAJ,Course65,University10,School245,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-27,2025-04-14,2026-02-02,294.0,46.0
+a0QPm00000TjQgnMAF,Course65,University10,School238,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-27,2025-04-10,2026-02-02,298.0,42.0
+a0QPm00000TjuyHMAR,Course4,University15,School503,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-02-28,2025-11-03,,,248.0
+a0QPm00000TqqugMAB,Course4,University15,School542,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-03,2025-11-03,,,245.0
+a0QPm00000TqsutMAB,Course73,University15,School542,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-03,2025-11-03,,,245.0
+a0QPm00000UOaNfMAL,Course82,University14,School500,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-04,2025-12-05,2026-02-02,59.0,276.0
+a0QPm00000UOwBGMA1,Course82,University14,School358,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-04,2026-01-16,2026-02-02,17.0,318.0
+a0QPm00000UP6YoMAL,Course4,University15,School200,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-04,2025-11-03,,,244.0
+a0QPm00000UPKbmMAH,Course4,University15,School529,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-04,2025-11-03,,,244.0
+a0QPm00000UPSxWMAX,Course42,University2,School510,7,Spring 2026,Dropped,Offered,Accepted,2025-03-04,,2026-02-02,,
+a0QPm00000UPTYcMAP,Course33,University15,School510,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-04,2025-11-03,,,244.0
+a0QPm00000UOn6MMAT,Course4,University15,School261,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-11-03,,,243.0
+a0QPm00000UPCvxMAH,Course79,University9,School427,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-05-09,2026-02-02,269.0,65.0
+a0QPm00000UPFKLMA5,Course70,University1,School425,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-10-09,,,218.0
+a0QPm00000UPOM3MAP,Course4,University15,School145,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-11-03,,,243.0
+a0QPm00000UQuzmMAD,Course45,University24,School552,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-06-30,2026-02-02,217.0,117.0
+a0QPm00000UR70xMAD,Course4,University15,School147,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-11-03,,,243.0
+a0QPm00000URB6CMAX,Course4,University15,School328,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-11-03,,,243.0
+a0QPm00000UTHieMAH,Course73,University15,School66,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-11-03,,,243.0
+a0QPm00000UTM0fMAH,Course16,University9,School211,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-12-08,2026-02-02,56.0,278.0
+a0QPm00000UTM8jMAH,Course3,University19,School211,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-12-08,2026-02-02,56.0,278.0
+a0QPm00000UTOLtMAP,Course32,University7,School222,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-12-09,2026-02-02,55.0,279.0
+a0QPm00000UUJOvMAP,Course60,University1,School86,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-05,2025-12-11,2026-02-02,53.0,281.0
+a0QPm00000URBCcMAP,Course51,University1,School46,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-20,2026-02-02,74.0,259.0
+a0QPm00000URFcoMAH,Course4,University15,School628,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-03,,,242.0
+a0QPm00000UVGiMMAX,Course23,University4,School162,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-12-01,2026-02-02,63.0,270.0
+a0QPm00000UVK7dMAH,Course33,University15,School411,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-09-04,,,182.0
+a0QPm00000UYcPnMAL,Course42,University2,School416,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-03-21,2026-02-02,318.0,15.0
+a0QPm00000UYcuSMAT,Course73,University15,School486,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-04-11,,,36.0
+a0QPm00000UYebGMAT,Course4,University15,School132,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-03,,,242.0
+a0QPm00000UYf5vMAD,Course4,University15,School133,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-03,,,242.0
+a0QPm00000UYGp6MAH,Course4,University15,School590,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-03,,,242.0
+a0QPm00000UYhPTMA1,Course73,University15,School590,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-11-03,,,242.0
+a0QPm00000UYjG0MAL,Course9,University4,School490,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-12-12,2026-02-02,52.0,281.0
+a0QPm00000UYvCIMA1,Course13,University9,School387,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-10-22,2026-02-02,103.0,230.0
+a0QPm00000UYzarMAD,Course81,University23,School387,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-10-22,2026-02-02,103.0,230.0
+a0QPm00000UYzpNMAT,Course33,University15,School387,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-10-22,,,230.0
+a0QPm00000UZGAQMA5,Course32,University7,School170,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-04-03,2026-02-02,305.0,28.0
+a0QPm00000UZU5BMAX,Course65,University10,School354,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-06,2025-10-24,2026-02-02,101.0,232.0
+a0QPm00000TpbYJMAZ,Course35,University1,School562,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-12-18,2026-02-02,46.0,286.0
+a0QPm00000TpQJ9MAN,Course70,University1,School562,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-04-18,,,42.0
+a0QPm00000TxUauMAF,Course60,University1,School518,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-03-21,2026-02-02,318.0,14.0
+a0QPm00000Uf1zrMAB,Course16,University9,School606,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-07-08,2026-02-02,209.0,123.0
+a0QPm00000Ufr7BMAR,Course23,University4,School128,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-10-28,2026-02-02,97.0,235.0
+a0QPm00000UgjgzMAB,Course48,University21,School223,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-12-12,2026-02-02,52.0,280.0
+a0QPm00000UgPQbMAN,Course60,University1,School128,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-10-28,2026-02-02,97.0,235.0
+a0QPm00000UODShMAP,Course73,University15,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-11-03,,,241.0
+a0QPm00000UOFG0MAP,Course33,University15,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-10-30,,,237.0
+a0QPm00000UOZUoMAP,Course4,University15,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-11-03,,,241.0
+a0QPm00000URIPNMA5,Course33,University15,School223,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-11-03,,,241.0
+a0QPm00000UU6JeMAL,Course13,University9,School155,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-12-12,2026-02-02,52.0,280.0
+a0QPm00000UU9nmMAD,Course60,University1,School155,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-12-12,2026-02-02,52.0,280.0
+a0QPm00000UVLtJMAX,Course41,University3,School83,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-12-12,2026-02-02,52.0,280.0
+a0QPm00000UZ2orMAD,Course73,University15,School88,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-07,2025-09-29,,,206.0
+a0QPm00000UgV4XMAV,Course51,University1,School257,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-08,2025-03-14,2026-02-02,325.0,6.0
+a0QPm00000UkI79MAF,Course48,University21,School422,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-09,2025-03-21,2026-02-02,318.0,12.0
+a0QPm00000UgItiMAF,Course21,University24,School59,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-10,2025-12-02,2026-02-02,62.0,267.0
+a0QPm00000UgZBNMA3,Course73,University15,School59,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-10,2025-11-03,,,238.0
+a0QPm00000UPRlLMAX,Course45,University24,School430,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-10,2025-12-16,2026-02-02,48.0,281.0
+a0QPm00000UYqisMAD,Course51,University1,School380,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-10,2025-12-16,2026-02-02,48.0,281.0
+a0QPm00000UgbbOMAR,Course51,University1,School405,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-04-25,2026-02-02,283.0,45.0
+a0QPm00000UgVR9MAN,Course4,University15,School405,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-11-03,,,237.0
+a0QPm00000UnMhGMAV,Course3,University19,School28,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-09-29,2026-02-02,126.0,202.0
+a0QPm00000UU3f8MAD,Course70,University1,School514,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-12-16,,,280.0
+a0QPm00000UU4zOMAT,Course21,University24,School514,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-12-16,2026-02-02,48.0,280.0
+a0QPm00000Uwmr1MAB,Course80,University10,School144,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-12-16,2026-02-02,48.0,280.0
+a0QPm00000UwzmdMAB,Course35,University1,School144,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2026-01-09,2026-02-02,24.0,304.0
+a0QPm00000Ux4HdMAJ,Course33,University15,School525,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-11-03,,,237.0
+a0QPm00000UYscbMAD,Course51,University1,School417,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-03-21,2026-02-02,318.0,10.0
+a0QPm00000UZ1CvMAL,Course33,University15,School304,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-11,2025-11-03,,,237.0
+a0QPm00000TjvUTMAZ,Course45,University24,School177,4,Spring 2026,Dropped,Offered,Accepted,2025-03-12,,2026-02-02,,
+a0QPm00000TjY3IMAV,Course65,University10,School177,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-12,2025-12-12,2026-02-02,52.0,275.0
+a0QPm00000UNWlwMAH,Course4,University15,School15,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-12,2025-11-03,,,236.0
+a0QPm00000UOhqaMAD,Course32,University7,School420,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-13,2025-10-01,2026-02-02,124.0,202.0
+a0QPm00000V16RLMAZ,Course33,University15,School336,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-13,2025-11-03,,,235.0
+a0QPm00000V2H7lMAF,Course42,University2,School9,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-13,2026-01-07,2026-02-02,26.0,300.0
+a0QPm00000V2sbyMAB,Course45,University24,School166,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-13,2025-05-14,2026-02-02,264.0,62.0
+a0QPm00000TpnhXMAR,Course51,University1,School373,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-14,2025-11-20,2026-02-02,74.0,251.0
+a0QPm00000UR1mnMAD,Course79,University9,School365,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-14,2025-11-17,2026-02-02,77.0,248.0
+a0QPm00000V6vkxMAB,Course82,University14,School188,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-14,2025-12-08,2026-02-02,56.0,269.0
+a0QPm00000UTUXhMAP,Course4,University15,School464,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-15,2025-11-03,,,233.0
+a0QPm00000V1yukMAB,Course35,University1,School577,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-17,2025-12-12,2026-02-02,52.0,270.0
+a0QPm00000V27jWMAR,Course26,University15,School577,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-17,2025-10-17,,,214.0
+a0QPm00000VNQ6SMAX,Course33,University15,School141,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-17,2025-11-03,,,231.0
+a0QPm00000VQXbBMAX,Course33,University15,School260,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-17,2025-11-03,,,231.0
+a0QPm00000UPYI9MAP,Course51,University1,School299,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-04-22,2026-02-02,286.0,35.0
+a0QPm00000UTVqLMAX,Course45,University24,School512,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-04-02,2026-02-02,306.0,15.0
+a0QPm00000UUIavMAH,Course21,University24,School268,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-12-05,2026-02-02,59.0,262.0
+a0QPm00000V72T3MAJ,Course70,University1,School75,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-05-05,,,48.0
+a0QPm00000VVyVuMAL,Course51,University1,School164,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2026-01-06,2026-02-02,27.0,294.0
+a0QPm00000VW2eLMAT,Course45,University24,School556,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-04-01,2026-02-02,307.0,14.0
+a0QPm00000VW55xMAD,Course3,University19,School556,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-05-15,2026-02-02,263.0,58.0
+a0QPm00000VWV6sMAH,Course70,University1,School164,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-18,2025-12-16,,,273.0
+a0QPm00000TjhHqMAJ,Course33,University15,School34,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-11-03,,,229.0
+a0QPm00000TsFkYMAV,Course16,University9,School134,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-05-09,2026-02-02,269.0,51.0
+a0QPm00000UPuCIMA1,Course33,University15,School329,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-11-03,,,229.0
+a0QPm00000URKm9MAH,Course73,University15,School100,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-11-03,,,229.0
+a0QPm00000UZHfpMAH,Course41,University3,School580,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-12-01,2026-02-02,63.0,257.0
+a0QPm00000UZW0XMAX,Course82,University14,School334,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-05-09,2026-02-02,269.0,51.0
+a0QPm00000V06ErMAJ,Course4,University15,School380,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-11-03,,,229.0
+a0QPm00000VPRpZMAX,Course33,University15,School523,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-19,2025-11-03,,,229.0
+a0QPm00000Tot0cMAB,Course47,University3,School64,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-12-12,2026-02-02,52.0,267.0
+a0QPm00000TpIlOMAV,Course45,University24,School64,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2026-01-19,2026-02-02,14.0,305.0
+a0QPm00000UgWtSMAV,Course25,University25,School627,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-12-04,2026-02-02,60.0,259.0
+a0QPm00000V2hdKMAR,Course26,University15,School44,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-10-17,,,211.0
+a0QPm00000VgegkMAB,Course25,University25,School137,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-12-17,2026-02-02,47.0,272.0
+a0QPm00000VgnLrMAJ,Course4,University15,School540,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-11-03,,,228.0
+a0QPm00000Vh1a5MAB,Course35,University1,School540,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-20,2025-05-21,2026-02-02,257.0,62.0
+a0QPm00000V1TSjMAN,Course79,University9,School111,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-23,2025-12-03,2026-02-02,61.0,255.0
+a0QPm00000Vz77ZMAR,Course26,University15,School526,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-24,2025-10-17,,,207.0
+a0QPm00000UQ8wjMAD,Course73,University15,School591,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-25,2025-03-27,,,2.0
+a0QPm00000VWKUqMAP,Course21,University24,School58,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-25,2025-12-02,2026-02-02,62.0,252.0
+a0QPm00000W3TfEMAV,Course35,University1,School443,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-26,2025-07-14,2026-02-02,203.0,110.0
+a0QPm00000W9R6bMAF,Course47,University3,School605,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-26,2025-12-16,2026-02-02,48.0,265.0
+a0QPm00000WA3evMAD,Course26,University15,School228,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-26,2025-03-26,,,0.0
+a0QPm00000TlfoeMAB,Course45,University24,School29,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-27,2025-08-12,2026-02-02,174.0,138.0
+a0QPm00000WA1tGMAT,Course60,University1,School221,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-27,2025-12-01,2026-02-02,63.0,249.0
+a0QPm00000WAH5BMAX,Course48,University21,School221,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-27,2025-12-01,2026-02-02,63.0,249.0
+a0QPm00000UO6qzMAD,Course45,University24,School393,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-28,2025-11-18,2026-02-02,76.0,235.0
+a0QPm00000V4tVVMAZ,Course26,University15,School13,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-28,2025-10-17,,,203.0
+a0QPm00000WD8uzMAD,Course48,University21,School194,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-31,2025-12-12,2026-02-02,52.0,256.0
+a0QPm00000WYnlWMAT,Course70,University1,School376,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-03-31,2025-12-19,,,263.0
+a0QPm00000TpkOHMAZ,Course11,University2,School104,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-01,2025-12-08,2026-02-02,56.0,251.0
+a0QPm00000UkEedMAF,Course21,University24,School619,33,Spring 2026,Dropped,Offered,Accepted,2025-04-02,,2026-02-02,,
+a0QPm00000UkO2yMAF,Course51,University1,School619,19,Spring 2026,Dropped,Offered,Accepted,2025-04-02,,2026-02-02,,
+a0QPm00000VjP3dMAF,Course4,University15,School620,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-02,2025-11-03,,,215.0
+a0QPm00000V59qTMAR,Course79,University9,School91,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-03,2026-01-06,2026-02-02,27.0,278.0
+a0QPm00000VaIFvMAN,Course26,University15,School608,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-09,2025-10-17,,,191.0
+a0QPm00000VCFxWMAX,Course26,University15,School369,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-09,2025-10-17,,,191.0
+a0QPm00000VzWM5MAN,Course51,University1,School608,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-09,2025-12-09,2026-02-02,55.0,244.0
+a0QPm00000XWBuzMAH,Course59,University7,School383,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-10,2025-04-23,2026-02-02,285.0,13.0
+a0QPm00000UgSGMMA3,Course26,University15,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-14,2025-10-17,,,186.0
+a0QPm00000YQcxNMAT,Course80,University10,School487,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-21,2025-12-11,2026-02-02,53.0,234.0
+a0QPm00000YQjVpMAL,Course80,University10,School487,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-21,2025-12-01,2026-02-02,63.0,224.0
+a0QPm00000VWjrNMAT,Course73,University15,School633,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-22,2025-06-11,,,50.0
+a0QPm00000WtSu5MAF,Course40,University9,School648,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-22,2025-12-12,2026-02-02,52.0,234.0
+a0QPm00000Y3BcsMAF,Course29,University24,School366,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-22,2025-06-23,2026-02-02,224.0,62.0
+a0QPm00000UPS6HMAX,Course73,University15,School123,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-23,2025-11-03,,,194.0
+a0QPm00000VUMkQMAX,Course40,University9,School414,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-23,2025-05-28,2026-02-02,250.0,35.0
+a0QPm00000Yb6XiMAJ,Course3,University19,School261,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-23,2025-05-09,2026-02-02,269.0,16.0
+a0QPm00000UYqxNMAT,Course33,University15,School181,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-24,2025-11-03,,,193.0
+a0QPm00000W1BINMA3,Course82,University14,School106,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-24,2025-12-15,2026-02-02,49.0,235.0
+a0QPm00000YEWhEMAX,Course73,University15,School466,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-28,2025-11-03,,,189.0
+a0QPm00000Yh2ZGMAZ,Course45,University24,School557,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-28,2026-01-06,2026-02-02,27.0,253.0
+a0QPm00000Z5EuGMAV,Course35,University1,School283,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-29,2025-12-11,2026-02-02,53.0,226.0
+a0QPm00000Uncm1MAB,Course79,University9,School195,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-30,2025-12-09,2026-02-02,55.0,223.0
+a0QPm00000UnMFrMAN,Course73,University15,School255,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-01,2025-11-03,,,186.0
+a0QPm00000ZLmohMAD,Course35,University1,School138,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-02,2025-07-02,2026-02-02,215.0,61.0
+a0QPm00000ZMGhtMAH,Course23,University4,School138,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-02,2025-07-02,2026-02-02,215.0,61.0
+a0QPm00000ZRsD5MAL,Course35,University1,School49,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-02,2025-05-08,2026-02-02,270.0,6.0
+a0QPm00000VjjFIMAZ,Course25,University25,School416,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-05,2025-05-05,2026-02-02,273.0,0.0
+a0QPm00000Wpt1dMAB,Course82,University14,School596,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-06,2025-05-07,2026-02-02,271.0,1.0
+a0QPm00000Z5vhTMAR,Course13,University9,School310,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-06,2026-01-07,2026-02-02,26.0,246.0
+a0QPm00000ZkCtFMAV,Course51,University1,School98,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-06,2025-12-12,2026-02-02,52.0,220.0
+a0QPm00000YiWF7MAN,Course3,University19,School251,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-07,2025-12-11,2026-02-02,53.0,218.0
+a0QPm00000YUvWjMAL,Course40,University9,School345,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-07,2025-05-15,2026-02-02,263.0,8.0
+a0QPm00000ZqUFaMAN,Course21,University24,School538,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-07,2025-12-30,2026-02-02,34.0,237.0
+a0QPm00000a4lurMAA,Course35,University1,School414,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-09,2025-05-28,2026-02-02,250.0,19.0
+a0QPm00000aQW9EMAW,Course35,University1,School254,9,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-13,2026-01-21,2026-02-02,12.0,253.0
+a0QPm00000V34jaMAB,Course51,University1,School649,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-13,2025-05-13,2026-02-02,265.0,0.0
+a0QPm00000UYectMAD,Course51,University1,School262,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-14,2025-12-18,2026-02-02,46.0,218.0
+a0QPm00000Z5pAcMAJ,Course59,University7,School572,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-19,2025-12-03,2026-02-02,61.0,198.0
+a0QPm00000Z5xPtMAJ,Course35,University1,School572,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-19,2025-12-03,2026-02-02,61.0,198.0
+a0QPm00000VVBF3MAP,Course79,University9,School208,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-21,2025-05-21,2026-02-02,257.0,0.0
+a0QPm00000UTOthMAH,Course79,University9,School293,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-27,2025-10-15,2026-02-02,110.0,141.0
+a0QPm00000Z8wYvMAJ,Course35,University1,School232,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-27,2026-01-06,2026-02-02,27.0,224.0
+a0QPm00000aiqMLMAY,Course13,University9,School576,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-28,2026-01-08,2026-02-02,25.0,225.0
+a0QPm00000bj0PyMAI,Course48,University21,School392,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-28,2025-12-05,2026-02-02,59.0,191.0
+a0QPm00000brnQJMAY,Course48,University21,School56,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-30,2025-11-24,2026-02-02,70.0,178.0
+a0QPm00000brPRFMA2,Course51,University1,School56,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-05-30,2025-11-24,2026-02-02,70.0,178.0
+a0QPm00000bhlw1MAA,Course9,University4,School73,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-03,2026-01-05,2026-02-02,28.0,216.0
+a0QPm00000aw9arMAA,Course51,University1,School287,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-04,2026-01-05,2026-02-02,28.0,215.0
+a0QPm00000Z8rqzMAB,Course40,University9,School581,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-09,2025-06-17,2026-02-02,230.0,8.0
+a0QPm00000aTmkVMAS,Course79,University9,School279,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-18,2026-01-20,2026-02-02,13.0,216.0
+a0QPm00000dFReDMAW,Course21,University24,School350,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-19,2025-10-15,2026-02-02,110.0,118.0
+a0QPm00000bxoTaMAI,Course21,University24,School218,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-20,2026-01-20,2026-02-02,13.0,214.0
+a0QPm00000b0EldMAE,Course4,University15,School345,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-23,2025-11-03,,,133.0
+a0QPm00000deoSfMAI,Course42,University2,School409,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-06-26,2025-10-15,2026-02-02,110.0,111.0
+a0QPm00000eLqcTMAS,Course11,University2,School286,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-03,2026-01-05,2026-02-02,28.0,186.0
+a0QPm00000eLqm9MAC,Course35,University1,School286,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-03,2026-01-05,2026-02-02,28.0,186.0
+a0QPm00000hcOjkMAE,Course51,University1,School636,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-30,2025-10-29,2026-02-02,96.0,91.0
+a0QPm00000gh9fmMAA,Course9,University4,School517,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-31,2025-12-03,2026-02-02,61.0,125.0
+a0QPm00000hkF89MAE,Course21,University24,School107,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-31,2025-09-11,2026-02-02,144.0,42.0
+a0QPm00000hklfuMAA,Course35,University1,School107,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-07-31,2025-12-11,2026-02-02,53.0,133.0
+a0QPm00000h3pJlMAI,Course16,University9,School622,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-01,2025-08-27,2026-02-02,159.0,26.0
+a0QPm00000hek3NMAQ,Course13,University9,School622,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-01,2025-12-11,2026-02-02,53.0,132.0
+a0QPm00000UgeZFMAZ,Course13,University9,School378,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-07,2025-11-21,2026-02-02,73.0,106.0
+a0QPm00000iMdfhMAC,Course41,University3,School437,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-12,2025-11-12,2026-02-02,82.0,92.0
+a0QPm00000V6uleMAB,Course42,University2,School120,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-27,2025-12-03,2026-02-02,61.0,98.0
+a0QPm00000V73NVMAZ,Course79,University9,School120,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-08-27,2025-12-03,2026-02-02,61.0,98.0
+a0QPm00000m0lxlMAA,Course70,University1,School107,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-09-11,2025-11-14,,,64.0
+a0QPm00000oxNOnMAM,Course8,University24,School25,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-09,2025-12-22,2026-02-02,42.0,74.0
+a0QPm00000o1rYYMAY,Course35,University1,School256,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-22,2026-01-07,2026-02-02,26.0,77.0
+a0QPm00000o2FRBMA2,Course8,University24,School256,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-22,2026-01-07,2026-02-02,26.0,77.0
+a0QPm00000qaBS1MAM,Course57,University6,School517,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-22,2025-12-03,2026-02-02,61.0,42.0
+a0QPm00000qrBFWMA2,Course51,University1,School402,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-24,2025-12-16,2026-02-02,48.0,53.0
+a0QPm00000qrNrlMAE,Course8,University24,School402,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-24,2025-12-16,2026-02-02,48.0,53.0
+a0QPm00000pxJKbMAM,Course8,University24,School131,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-28,2025-11-06,2026-02-02,88.0,9.0
+a0QPm00000rV6qdMAC,Course35,University1,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-30,2025-10-31,2026-02-02,94.0,1.0
+a0QPm00000raIG1MAM,Course79,University9,School60,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-10-31,2025-11-05,2026-02-02,89.0,5.0
+a0QPm00000tI8PHMA0,Course35,University1,School100,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-11-17,2025-12-05,2026-02-02,59.0,18.0
+a0QPm00000pwbbNMAQ,Course82,University14,School131,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-04,2025-12-04,2026-02-02,60.0,0.0
+a0QPm00000rpD4vMAE,Course53,University24,School14,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-05,2025-12-05,2026-02-02,59.0,0.0
+a0QPm00000vHtiQMAS,Course35,University1,School133,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-08,2026-01-07,2026-02-02,26.0,30.0
+a0QPm00000V1VhRMAV,Course32,University7,School36,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-09,2025-12-09,2026-02-02,55.0,0.0
+a0QPm00000rpD4wMAE,Course53,University24,School466,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-11,2025-12-11,2026-02-02,53.0,0.0
+a0QPm00000qK4j3MAC,Course23,University4,School323,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-12-23,2026-01-07,2026-02-02,26.0,15.0
+a0QPm00000xiMu5MAE,Course51,University1,School371,0,Spring 2026,Admissions Drop,Offered,Accepted,2026-01-05,2026-01-07,2026-02-02,26.0,2.0
+a0QPm00000y7puUMAQ,Course42,University2,School150,0,Spring 2026,Admissions Drop,Offered,Accepted,2026-01-09,2026-01-09,2026-02-02,24.0,0.0
+a0QPm000009epY7MAI,Course3,University19,School127,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-05,2025-02-03,60.0,276.0
+a0QPm000009kokaMAA,Course45,University24,School66,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-11-12,2025-02-03,83.0,253.0
+a0QPm000009rejhMAA,Course62,University1,School515,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-10,2025-02-04,56.0,281.0
+a0QPm000009reOjMAI,Course50,University4,School515,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-10,2025-02-03,55.0,281.0
+a0QPm000009rUu4MAE,Course35,University1,School515,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-10,2025-02-03,55.0,281.0
+a0QPm000009sf7RMAQ,Course65,University10,School255,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-12,2025-02-03,53.0,283.0
+a0QPm000009xlwzMAA,Course50,University4,School614,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-11-27,2025-02-03,68.0,268.0
+a0QPm000009xmWTMAY,Course45,University24,School348,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-10,2025-02-03,55.0,281.0
+a0QPm000009xoq1MAA,Course23,University4,School17,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-12,2025-02-03,53.0,283.0
+a0QPm000009yJSSMA2,Course45,University24,School271,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-12,2025-02-03,53.0,283.0
+a0QPm000009yxulMAA,Course65,University10,School651,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-11,2025-02-03,54.0,282.0
+a0QPm000009yyk5MAA,Course25,University25,School203,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-04,2024-12-10,2025-02-03,55.0,281.0
+a0QPm000009lE7CMAU,Course25,University25,School449,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-04-10,2025-02-03,299.0,36.0
+a0QPm000009npqbMAA,Course79,University9,School216,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-11-12,2025-02-03,83.0,252.0
+a0QPm000009pJmbMAE,Course16,University9,School4,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-05-23,2025-02-03,256.0,79.0
+a0QPm000009rubZMAQ,Course35,University1,School177,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2025-01-06,2025-02-03,28.0,307.0
+a0QPm000009ruTVMAY,Course62,University1,School177,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2025-10-28,2025-02-04,-266.0,602.0
+a0QPm000009rYG5MAM,Course41,University3,School351,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-11-12,2025-02-03,83.0,252.0
+a0QPm000009xjdTMAQ,Course51,University1,School176,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-12-10,2025-02-03,55.0,280.0
+a0QPm000009xmeYMAQ,Course16,University9,School514,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-09-03,2025-02-03,153.0,182.0
+a0QPm000009xqYTMAY,Course13,University9,School387,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-10-30,2025-02-03,96.0,239.0
+a0QPm000009ySyjMAE,Course21,University24,School569,16,Spring 2025,Dropped,Offered,Accepted,2024-03-05,,2025-02-03,,
+a0QPm000009z2VxMAI,Course50,University4,School9,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-10-10,2025-02-03,116.0,219.0
+a0QPm000009z3gYMAQ,Course4,University15,School98,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-05,2024-12-06,2025-02-03,59.0,276.0
+a0QPm000009lGaPMAU,Course11,University2,School27,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-12-06,2025-02-03,59.0,275.0
+a0QPm000009lLdJMAU,Course62,University1,School530,6,Spring 2025,Dropped,Offered,Accepted,2024-03-06,,2025-02-04,,
+a0QPm000009saCcMAI,Course23,University4,School42,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-12-05,2025-02-03,60.0,274.0
+a0QPm000009scuMMAQ,Course50,University4,School42,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-12-05,2025-02-03,60.0,274.0
+a0QPm000009sZwUMAU,Course40,University9,School42,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-12-05,2025-02-03,60.0,274.0
+a0QPm000009xpULMAY,Course65,University10,School242,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-12-11,2025-02-03,54.0,280.0
+a0QPm000009z8MvMAI,Course35,University1,School71,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-10-08,2025-02-03,118.0,216.0
+a0QPm00000A4PIGMA3,Course13,University9,School154,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-06,2024-11-14,2025-02-03,81.0,253.0
+a0QPm000009h0KXMAY,Course47,University3,School371,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-07,2024-12-11,2025-02-03,54.0,279.0
+a0QPm00000WI4qkMAD,Course45,University24,School504,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-10,2025-05-01,2026-02-02,277.0,21.0
+a0QPm00000WIOvtMAH,Course79,University9,School504,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-04-10,2025-05-01,2026-02-02,277.0,21.0
+a0QPm000009soU7MAI,Course4,University15,School394,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-07,2024-10-15,2025-02-03,111.0,222.0
+a0QPm000009xn17MAA,Course27,University22,School491,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-07,2024-06-03,,,88.0
+a0QPm00000WHyjmMAD,Course51,University1,School504,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-10,2025-05-01,2025-09-08,130.0,21.0
+a0QPm00000A4zK5MAJ,Course73,University15,School268,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-07,2024-10-30,2025-02-03,96.0,237.0
+a0QPm000009khCtMAI,Course45,University24,School464,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-10-30,2025-02-03,96.0,236.0
+a0QPm000009ku5FMAQ,Course11,University2,School550,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-11-13,2025-02-03,82.0,250.0
+a0QPm000009lEYcMAM,Course48,University21,School54,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-12-06,2025-02-03,59.0,273.0
+a0QPm00000WIAMhMAP,Course13,University9,School504,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-10,2025-05-01,2025-09-08,130.0,21.0
+a0QPm000009lNiLMAU,Course62,University1,School58,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-10-31,2025-02-04,96.0,237.0
+a0QPm00000jX3A7MAK,Course60,University1,School338,0,Spring 2026,Admissions Drop,Offered,Accepted,2025-09-03,2025-12-10,2026-02-02,54.0,98.0
+a0QPm000009rf9WMAQ,Course32,University7,School386,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-10-18,2025-02-03,108.0,224.0
+a0QPm000009roKrMAI,Course25,University25,School194,7,Spring 2025,Dropped,Offered,Accepted,2024-03-08,,2025-02-03,,
+a0QPm000009sdVRMAY,Course62,University1,School328,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-12-10,2025-02-04,56.0,277.0
+a0QPm000009ysJhMAI,Course47,University3,School250,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-08-14,2025-02-03,173.0,159.0
+a0QPm000009yU2sMAE,Course65,University10,School70,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2025-01-17,2025-02-03,17.0,315.0
+a0QPm000009yxhaMAA,Course62,University1,School354,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-12-04,2025-02-04,62.0,271.0
+a0QPm000009zB6DMAU,Course35,University1,School407,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-08,2024-12-12,2025-02-03,53.0,279.0
+a0QPm000009yUSfMAM,Course35,University1,School221,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-11,2024-12-05,2025-02-03,60.0,269.0
+a0QPm00000APQRNMA5,Course23,University4,School377,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-14,2024-12-10,2025-02-03,55.0,271.0
+a0QPm00000ARIntMAH,Course25,University25,School547,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-03-14,2024-12-16,2025-02-03,49.0,277.0
+a0QPm00000AvJg7MAF,Course32,University7,School389,14,Spring 2025,Dropped,Offered,Accepted,2024-04-12,,2025-02-03,,
+a0QPm00000BFKwBMAX,Course21,University24,School376,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-04-12,2024-10-04,2025-02-03,122.0,175.0
+a0QPm00000BN35JMAT,Course31,University25,School109,8,Spring 2025,Dropped,Offered,Accepted,2024-04-17,,2025-02-03,,
+a0QPm00000BreAhMAJ,Course31,University25,School480,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-04-25,2024-12-05,2025-02-03,60.0,224.0
+a0QPm00000C2MqLMAV,Course80,University10,School562,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-04-30,2024-12-12,2025-02-03,53.0,226.0
+a0QPm000009oUx0MAE,Course35,University1,School648,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-05-14,2024-12-20,2025-02-03,45.0,220.0
+a0QPm00000D9EQsMAN,Course41,University3,School438,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-05-23,2024-12-09,2025-02-03,56.0,200.0
+a0QPm00000DNVq1MAH,Course62,University1,School133,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-05-28,2024-11-14,2025-02-04,82.0,170.0
+a0QPm00000DD4ZQMA1,Course23,University4,School32,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-06-05,2024-12-06,2025-02-03,59.0,184.0
+a0QPm00000DDFxpMAH,Course65,University10,School49,4,Spring 2025,Dropped,Offered,Accepted,2024-06-05,,2025-02-03,,
+a0QPm00000E58jGMAR,Course50,University4,School196,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-06-11,2024-12-06,2025-02-03,59.0,178.0
+a0QPm00000EngZ7MAJ,Course23,University4,School116,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-06-24,2024-12-11,2025-02-03,54.0,170.0
+a0QPm000009yzpsMAA,Course35,University1,School451,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-07-23,2024-12-09,2025-02-03,56.0,139.0
+a0QPm00000BlUM5MAN,Course21,University24,School286,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-08,2024-12-12,2025-02-03,53.0,126.0
+a0QPm00000DADanMAH,Course51,University1,School51,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-08,2024-12-05,2025-02-03,60.0,119.0
+a0QPm00000DszOnMAJ,Course44,University9,School358,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-14,2024-12-17,2025-02-03,48.0,125.0
+a0QPm00000D2Z73MAF,Course80,University10,School85,6,Spring 2025,Dropped,Offered,Accepted,2024-08-15,,2025-02-03,,
+a0QPm00000HZDwfMAH,Course80,University10,School364,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-16,2024-12-09,2025-02-03,56.0,115.0
+a0QPm00000HZEJFMA5,Course62,University1,School364,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-16,2024-12-16,2025-02-04,50.0,122.0
+a0QPm00000HuNkvMAF,Course80,University10,School609,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-20,2024-12-09,2025-02-03,56.0,111.0
+a0QPm00000HuGLGMA3,Course80,University10,School610,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-08-21,2024-12-09,2025-02-03,56.0,110.0
+a0QPm00000J9zm5MAB,Course42,University2,School540,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-09-16,2024-11-06,2025-02-03,89.0,51.0
+a0QPm00000HKfYHMA1,Course82,University14,School179,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-10-23,2025-01-09,2025-02-03,25.0,78.0
+a0QPm00000LKZWzMAP,Course82,University14,School211,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-10-28,2025-01-13,2025-02-03,21.0,77.0
+a0QPm00000LpcjvMAB,Course9,University4,School565,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-11-06,2024-12-02,2025-02-03,63.0,26.0
+a0QPm00000MV8z7MAD,Course25,University25,School307,9,Spring 2025,Dropped,Offered,Accepted,2024-11-22,,2025-02-03,,
+a0QPm00000OEiUnMAL,Course62,University1,School527,0,Spring 2025,Admissions Drop,Offered,Accepted,2024-12-17,2025-01-03,2025-02-04,32.0,17.0
+a0QPm00000O8NeMMAV,Course11,University2,School471,9,Spring 2025,Dropped,Offered,Accepted,2024-12-24,,2025-02-03,,
+a0QPm00000OA3RsMAL,Course4,University15,School471,13,Spring 2025,Dropped,Offered,Accepted,2024-12-24,,2025-02-03,,
+a0QPm00000O8OvNMAV,Course82,University14,School544,14,Spring 2025,Dropped,Offered,Accepted,2025-01-02,,2025-02-03,,
+a0QPm00000NkxCnMAJ,Course35,University1,School99,0,Spring 2025,Admissions Drop,Offered,Accepted,2025-01-16,2025-01-22,2025-02-03,12.0,6.0
+a0QDo000000c2GwMAI,Course31,University25,School451,15,Spring 2024,Dropped,Offered,Accepted,2023-07-27,,2024-02-05,,
+a0QDo000000B9UTMA0,Course25,University25,School152,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-07-31,2024-01-18,2024-02-05,18.0,171.0
+a0QDo000000BpLNMA0,Course41,University3,School499,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-08-22,2024-01-24,2024-02-06,13.0,155.0
+a0QDo0000072sE5MAI,Course11,University2,School623,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-10-22,2024-01-18,2024-02-05,18.0,88.0
+a0QDo000001GWC3MAO,Course31,University25,School165,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-10-23,2024-01-16,2024-02-05,20.0,85.0
+a0QDo0000074LAdMAM,Course73,University15,School634,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-10-25,2024-01-19,2024-02-05,17.0,86.0
+a0QDo0000074LATMA2,Course64,University9,School634,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-10-25,2024-01-16,2024-02-05,20.0,83.0
+a0QPm000004dccdMAA,Course51,University1,School90,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-11-15,2024-01-05,2024-02-05,31.0,51.0
+a0QPm000004uQf3MAE,Course45,University24,School288,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-11-16,2024-01-18,2024-02-05,18.0,63.0
+a0QDo000001GWBtMAO,Course31,University25,School361,9,Spring 2024,Dropped,Offered,Accepted,2023-11-28,,2024-02-05,,
+a0QPm000005lgFRMAY,Course64,University9,School311,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-12-04,2024-01-18,2024-02-05,18.0,45.0
+a0QDo000001GWCRMA4,Course31,University25,School337,0,Spring 2024,Admissions Drop,Offered,Accepted,2023-12-15,2024-01-16,2024-02-05,20.0,32.0
+a0QPm000014EaTsMAK,Course14,University23,School202,0,Fall 2026,Admissions Drop,Offered,Accepted,2026-03-03,2026-03-03,,,0.0
+a0QPm000014RJRxMAO,Course80,University10,School420,0,Fall 2026,Admissions Drop,Offered,Accepted,2026-03-03,2026-03-03,,,0.0
+a0QPm00000Tr18ZMAR,Course13,University9,School374,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-02-25,2025-07-14,2025-09-08,56.0,139.0
+a0QPm00000TrB7wMAF,Course75,University10,School391,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-02-25,2025-08-07,2025-09-08,32.0,163.0
+a0QPm00000UOsnbMAD,Course38,University3,School341,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-04,2025-08-08,2025-09-08,31.0,157.0
+a0QPm00000UOYTuMAP,Course75,University10,School500,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-04,2025-08-07,2025-09-08,32.0,156.0
+a0QPm00000UP06oMAD,Course60,University1,School341,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-04,2025-07-03,2025-09-08,67.0,121.0
+a0QPm00000UP0YDMA1,Course75,University10,School341,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-04,2025-08-07,2025-09-08,32.0,156.0
+a0QPm00000UP8XNMA1,Course51,University1,School358,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-04,2025-10-28,2025-09-08,-50.0,238.0
+a0QPm00000UPTC1MAP,Course60,University1,School510,23,Fall 2025,Dropped,Offered,Accepted,2025-03-04,,2025-09-08,,
+a0QPm00000UOwEVMA1,Course35,University1,School427,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-05-09,2025-09-08,122.0,65.0
+a0QPm00000UP8p8MAD,Course71,University1,School425,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-06-04,2025-09-09,97.0,91.0
+a0QPm00000UREDhMAP,Course74,University21,School552,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-06-30,2025-09-08,70.0,117.0
+a0QPm00000UT4WoMAL,Course39,University9,School211,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-07-02,2025-09-08,68.0,119.0
+a0QPm00000UTLuDMAX,Course15,University9,School211,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-08-19,2025-09-08,20.0,167.0
+a0QPm00000UUG2tMAH,Course60,University1,School222,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-08-15,2025-09-08,24.0,163.0
+a0QPm00000UV5i6MAD,Course38,University3,School652,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-05,2025-03-21,2025-09-08,171.0,16.0
+a0QPm00000UV4NrMAL,Course53,University24,School411,17,Fall 2025,Dropped,Offered,Accepted,2025-03-06,,2025-09-08,,
+a0QPm00000UVHZaMAP,Course39,University9,School162,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-06,2025-08-27,2025-09-08,12.0,174.0
+a0QPm00000UX4gJMAT,Course39,University9,School486,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-06,2025-04-29,2025-09-08,132.0,54.0
+a0QPm00000UYuEcMAL,Course60,University1,School590,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-06,2025-04-08,2025-09-08,153.0,33.0
+a0QPm00000UYxdtMAD,Course50,University4,School490,13,Fall 2025,Dropped,Offered,Accepted,2025-03-06,,2025-09-08,,
+a0QPm00000UYzz3MAD,Course60,University1,School387,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-06,2025-04-25,2025-09-08,136.0,50.0
+a0QPm00000UZVSfMAP,Course54,University7,School170,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-06,2025-05-09,2025-09-08,122.0,64.0
+a0QPm00000Uf6UqMAJ,Course60,University1,School31,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-03-21,2025-09-08,171.0,14.0
+a0QPm00000UfbvBMAR,Course15,University9,School606,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-07-08,2025-09-08,62.0,123.0
+a0QPm00000UfcBJMAZ,Course60,University1,School606,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-07-01,2025-09-08,69.0,116.0
+a0QPm00000UgT18MAF,Course13,University9,School128,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-08-12,2025-09-08,27.0,158.0
+a0QPm00000URlb6MAD,Course71,University1,School241,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-08-11,2025-09-09,29.0,157.0
+a0QPm00000UTqRmMAL,Course38,University3,School155,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-03-10,2025-09-08,182.0,3.0
+a0QPm00000UUF3ZMAX,Course71,University1,School155,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-03-10,2025-09-09,183.0,3.0
+a0QPm00000UUxW3MAL,Course75,University10,School83,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-08-07,2025-09-08,32.0,153.0
+a0QPm00000UVMZFMA5,Course13,University9,School83,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-07,2025-08-28,2025-09-08,11.0,174.0
+a0QPm00000UgUlCMAV,Course34,University4,School257,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-08,2025-03-14,2025-09-08,178.0,6.0
+a0QPm00000UjKxRMAV,Course44,University9,School422,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-09,2025-03-21,2025-09-08,171.0,12.0
+a0QPm00000UfqZGMAZ,Course60,University1,School465,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-10,2025-03-14,2025-09-08,178.0,4.0
+a0QPm00000UgWVGMA3,Course51,University1,School59,14,Fall 2025,Dropped,Offered,Accepted,2025-03-10,,2025-09-08,,
+a0QPm00000UgZRVMA3,Course71,University1,School59,12,Fall 2025,Dropped,Offered,Accepted,2025-03-10,,2025-09-09,,
+a0QPm00000UPLb6MAH,Course75,University10,School430,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-10,2025-08-07,2025-09-08,32.0,150.0
+a0QPm00000UYfDzMAL,Course13,University9,School380,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-10,2025-08-13,2025-09-08,26.0,156.0
+a0QPm00000UYyYLMA1,Course15,University9,School382,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-10,2025-06-16,2025-09-08,84.0,98.0
+a0QPm00000UnLbWMAV,Course7,University15,School28,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-11,2025-08-19,2025-09-08,20.0,161.0
+a0QPm00000UTNL1MAP,Course52,University3,School514,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-11,2025-06-26,2025-09-08,74.0,107.0
+a0QPm00000Uxh4UMAR,Course72,University20,School144,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-11,2025-08-29,2025-09-08,10.0,171.0
+a0QPm00000UYsUXMA1,Course44,University9,School417,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-11,2025-03-21,2025-09-08,171.0,10.0
+a0QPm00000TjrPGMAZ,Course71,University1,School177,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-12,2025-10-28,2025-09-09,-49.0,230.0
+a0QPm00000UgMAwMAN,Course51,University1,School428,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-12,2025-07-29,2025-09-08,41.0,139.0
+a0QPm00000UO5uvMAD,Course54,University7,School15,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-12,2025-08-20,2025-09-08,19.0,161.0
+a0QPm00000UZGn0MAH,Course38,University3,School77,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-13,2025-05-07,2025-09-08,124.0,55.0
+a0QPm00000V1Ad4MAF,Course31,University25,School303,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-14,2025-04-17,,,34.0
+a0QPm00000V72srMAB,Course31,University25,School188,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-14,2025-04-17,,,34.0
+a0QPm00000V26YyMAJ,Course38,University3,School577,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-17,2025-03-24,2025-09-08,168.0,7.0
+a0QPm00000V72PpMAJ,Course71,University1,School75,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-18,2025-08-27,2025-09-09,13.0,162.0
+a0QPm00000VVf0FMAT,Course51,University1,School556,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-18,2025-04-22,2025-09-08,139.0,35.0
+a0QPm00000TsCbQMAV,Course15,University9,School134,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-19,2025-05-09,2025-09-08,122.0,51.0
+a0QPm00000UQV2AMAX,Course51,University1,School100,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-19,2025-05-30,2025-09-08,101.0,72.0
+a0QPm00000V1KE9MAN,Course31,University25,School334,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-19,2025-04-14,,,26.0
+a0QPm00000VOZnoMAH,Course7,University15,School371,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-19,2025-08-21,2025-09-08,18.0,155.0
+a0QPm00000TobznMAB,Course51,University1,School64,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-20,2025-10-28,2025-09-08,-50.0,222.0
+a0QPm00000Tpa2zMAB,Course44,University9,School450,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-20,2025-04-06,2025-09-08,155.0,17.0
+a0QPm00000UgRCHMA3,Course43,University24,School543,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-20,2025-07-17,2025-09-08,53.0,119.0
+a0QPm00000V2xDSMAZ,Course7,University15,School247,3,Fall 2025,Dropped,Offered,Accepted,2025-03-20,,2025-09-08,,
+a0QPm00000V04MmMAJ,Course34,University4,School122,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-21,2025-08-05,2025-09-08,34.0,137.0
+a0QPm00000V2z41MAB,Course71,University1,School645,16,Fall 2025,Dropped,Offered,Accepted,2025-03-21,,2025-09-09,,
+a0QPm00000VimWxMAJ,Course31,University25,School69,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-21,2025-04-17,,,27.0
+a0QPm00000UQ6DOMA1,Course76,University1,School591,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-25,2025-03-27,,,2.0
+a0QPm00000VNDSXMA5,Course31,University25,School432,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-25,2025-04-17,,,23.0
+a0QPm00000UPCG5MAP,Course51,University1,School394,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-26,2025-04-21,2025-09-08,140.0,26.0
+a0QPm00000W9QthMAF,Course51,University1,School605,22,Fall 2025,Dropped,Offered,Accepted,2025-03-26,,2025-09-08,,
+a0QPm00000TleNuMAJ,Course51,University1,School29,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-27,2025-08-12,2025-09-08,27.0,138.0
+a0QPm00000VwT7tMAF,Course31,University25,School552,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-27,2025-04-17,,,21.0
+a0QPm00000UO00oMAD,Course51,University1,School393,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-28,2025-05-09,2025-09-08,122.0,42.0
+a0QPm00000VyWcfMAF,Course72,University20,School254,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-03-30,2025-05-13,2025-09-08,118.0,44.0
+a0QPm00000TpEEkMAN,Course25,University25,School104,2,Fall 2025,Dropped,Offered,Accepted,2025-04-01,,2025-09-08,,
+a0QPm00000UUE4JMAX,Course2,University17,School179,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-01,2025-10-28,2025-09-08,-50.0,210.0
+a0QPm00000UkLxsMAF,Course71,University1,School619,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-02,2025-08-01,2025-09-09,39.0,121.0
+a0QPm00000WojFeMAJ,Course38,University3,School58,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-02,2025-08-18,2025-09-08,21.0,138.0
+a0QPm00000WVscrMAD,Course38,University3,School615,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-07,2025-08-27,2025-09-08,12.0,142.0
+a0QPm00000Wh5ziMAB,Course1,University14,School179,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-08,2025-10-28,2025-09-08,-50.0,203.0
+a0QPm00000VzVrRMAV,Course2,University17,School608,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-09,2025-08-06,2025-09-08,33.0,119.0
+a0QPm00000XRid3MAD,Course11,University2,School275,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-09,2025-05-22,2025-09-08,109.0,43.0
+a0QPm00000XE47BMAT,Course13,University9,School33,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-10,2025-08-13,2025-09-08,26.0,125.0
+a0QPm00000Y3KcvMAF,Course2,University17,School366,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-22,2025-06-23,2025-09-08,77.0,62.0
+a0QPm00000YVpcAMAT,Course1,University14,School633,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-22,2025-06-11,2025-09-08,89.0,50.0
+a0QPm00000VU5TTMA1,Course43,University24,School414,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-23,2025-05-28,2025-09-08,103.0,35.0
+a0QPm00000UYINtMAP,Course35,University1,School181,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-24,2025-10-28,2025-09-08,-50.0,187.0
+a0QPm00000W18pAMAR,Course34,University4,School106,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-24,2025-05-09,2025-09-08,122.0,15.0
+a0QPm00000Y4ufyMAB,Course13,University9,School515,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-04-24,2025-06-09,2025-09-08,91.0,46.0
+a0QPm00000ZLoiQMAT,Course9,University4,School138,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-02,2025-07-02,2025-09-08,68.0,61.0
+a0QPm00000ZMGzdMAH,Course72,University20,School138,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-02,2025-07-02,2025-09-08,68.0,61.0
+a0QPm00000VPJVSMA5,Course34,University4,School491,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-06,2025-05-06,2025-09-08,125.0,0.0
+a0QPm00000ZK8enMAD,Course54,University7,School310,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-06,2025-09-03,2025-09-08,5.0,120.0
+a0QPm00000WBoOsMAL,Course13,University9,School21,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-07,2025-09-03,2025-09-08,5.0,119.0
+a0QPm00000YhzkdMAB,Course43,University24,School251,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-07,2025-06-09,2025-09-08,91.0,33.0
+a0QPm00000ZeOgzMAF,Course9,University4,School52,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-07,2025-05-14,2025-09-08,117.0,7.0
+a0QPm00000Yh8A2MAJ,Course35,University1,School637,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-09,2025-10-28,2025-09-08,-50.0,172.0
+a0QPm00000UYqfeMAD,Course44,University9,School262,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-14,2025-10-28,2025-09-08,-50.0,167.0
+a0QPm00000Z5sreMAB,Course43,University24,School572,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-19,2025-10-28,2025-09-08,-50.0,162.0
+a0QPm00000Z5x4vMAB,Course54,University7,School572,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-19,2025-10-28,2025-09-08,-50.0,162.0
+a0QPm00000aWbNuMAK,Course55,University16,School208,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-21,2025-10-28,2025-09-08,-50.0,160.0
+a0QPm00000b7CITMA2,Course56,University4,School490,5,Fall 2025,Dropped,Offered,Accepted,2025-05-21,,2025-09-08,,
+a0QPm00000VVA4TMAX,Course51,University1,School208,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-21,2025-10-28,2025-09-08,-50.0,160.0
+a0QPm00000UTP6bMAH,Course11,University2,School293,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-27,2025-10-28,2025-09-08,-50.0,154.0
+a0QPm00000brfnjMAA,Course50,University4,School56,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-05-30,2025-08-20,2025-09-08,19.0,82.0
+a0QPm00000aw8WkMAI,Course11,University2,School287,9,Fall 2025,Dropped,Offered,Accepted,2025-06-04,,2025-09-08,,
+a0QPm00000cmb94MAA,Course50,University4,School581,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-06-09,2025-06-17,2025-09-08,83.0,8.0
+a0QPm00000dFAF8MAO,Course53,University24,School350,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-06-19,2025-10-28,2025-09-08,-50.0,131.0
+a0QPm00000dFKJLMA4,Course55,University16,School350,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-06-19,2025-10-28,2025-09-08,-50.0,131.0
+a0QPm00000gLGKxMAO,Course50,University4,School360,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-07-18,2025-08-20,2025-09-08,19.0,33.0
+a0QPm00000ghDY5MAM,Course35,University1,School517,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-07-31,2025-08-11,2025-09-08,28.0,11.0
+a0QPm00000hkH9yMAE,Course43,University24,School107,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-07-31,2025-08-27,2025-09-08,12.0,27.0
+a0QPm00000h3oynMAA,Course15,University9,School622,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-08-01,2025-08-27,2025-09-08,12.0,26.0
+a0QPm00000iRydPMAS,Course15,University9,School365,7,Fall 2025,Dropped,Offered,Accepted,2025-08-07,,2025-09-08,,
+a0QPm00000iMaujMAC,Course72,University20,School437,14,Fall 2025,Dropped,Offered,Accepted,2025-08-12,,2025-09-08,,
+a0QPm00000V6m6YMAR,Course25,University25,School120,0,Fall 2025,Admissions Drop,Offered,Accepted,2025-08-14,2025-08-14,2025-09-08,25.0,0.0
+a0QPm00000iyLTHMA2,Course7,University15,School461,14,Fall 2025,Dropped,Offered,Accepted,2025-08-30,,2025-09-08,,
+a0QPm00000lHEoIMAW,Course72,University20,School360,12,Fall 2025,Dropped,Offered,Accepted,2025-09-05,,2025-09-08,,
+a0QPm000009reerMAA,Course52,University3,School515,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-04,2024-06-04,2024-09-09,97.0,92.0
+a0QPm000009rUKZMA2,Course36,University15,School515,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-04,2024-06-04,2024-09-23,111.0,92.0
+a0QPm000009seuXMAQ,Course54,University7,School255,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-04,2024-08-13,2024-09-09,27.0,162.0
+a0QPm000009xmTFMAY,Course51,University1,School348,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-04,2024-07-30,2024-09-09,41.0,148.0
+a0QPm000009yTMwMAM,Course42,University2,School271,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-04,2024-07-29,2024-09-09,42.0,147.0
+a0QPm000009ruQHMAY,Course63,University1,School177,3,Fall 2024,Dropped,Offered,Accepted,2024-03-05,,2024-09-10,,
+a0QPm000009ruYLMAY,Course36,University15,School177,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-05,2024-06-04,2024-09-23,111.0,91.0
+a0QPm000009xoTRMAY,Course40,University9,School514,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-05,2024-08-05,2024-09-09,35.0,153.0
+a0QPm00000A0OHXMA3,Course46,University22,School155,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-05,2024-08-12,,,160.0
+a0QPm000009xpPVMAY,Course13,University9,School242,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-06,2024-06-04,2024-09-09,97.0,90.0
+a0QPm000009gr2mMAA,Course63,University1,School371,18,Fall 2024,Dropped,Offered,Accepted,2024-03-07,,2024-09-10,,
+a0QPm000009h0E5MAI,Course54,University7,School371,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-07,2024-08-19,2024-09-09,21.0,165.0
+a0QPm000009ku3dMAA,Course40,University9,School550,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-08,2024-08-14,2024-09-09,26.0,159.0
+a0QPm000009l5iEMAQ,Course46,University22,School54,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-08,2024-08-12,,,157.0
+a0QPm000009xqBtMAI,Course51,University1,School260,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-08,2024-07-01,2024-09-09,70.0,115.0
+a0QPm000009ys6pMAA,Course25,University25,School250,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-08,2024-08-14,2024-09-09,26.0,159.0
+a0QPm000009yyFSMAY,Course25,University25,School355,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-09,2024-07-24,2024-09-09,47.0,137.0
+a0QPm00000A5pQkMAJ,Course43,University24,School388,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-09,2024-08-16,2024-09-09,24.0,160.0
+a0QPm000009sebBMAQ,Course34,University4,School453,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-03-11,2024-06-04,2024-09-09,97.0,85.0
+a0QPm00000AU3NhMAL,Course15,University9,School281,11,Fall 2024,Dropped,Offered,Accepted,2024-03-27,,2024-09-09,,
+a0QPm000009ywyPMAQ,Course40,University9,School376,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-04-12,2024-07-30,2024-09-09,41.0,109.0
+a0QPm00000Bdh1yMAB,Course34,University4,School122,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-04-16,2024-05-29,2024-09-09,103.0,43.0
+a0QPm00000AfyFNMAZ,Course36,University15,School157,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-04-17,2024-06-04,2024-09-23,111.0,48.0
+a0QPm000009o5sAMAQ,Course75,University10,School648,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-05-14,2024-07-25,2024-09-09,46.0,72.0
+a0QPm00000CiuqoMAB,Course53,University24,School591,3,Fall 2024,Dropped,Offered,Accepted,2024-05-14,,2024-09-09,,
+a0QPm00000CixofMAB,Course10,University18,School591,3,Fall 2024,Dropped,Offered,Accepted,2024-05-14,,2024-09-09,,
+a0QPm00000Cqt6LMAR,Course52,University3,School287,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-05-21,2024-06-04,2024-09-09,97.0,14.0
+a0QPm00000D8zekMAB,Course52,University3,School438,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-05-23,2024-07-29,2024-09-09,42.0,67.0
+a0QPm00000DNVjZMAX,Course52,University3,School133,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-05-28,2024-06-03,2024-09-09,98.0,6.0
+a0QPm00000DhBqLMAV,Course39,University9,School188,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-06-03,2024-08-02,2024-09-09,38.0,60.0
+a0QPm00000DsKK1MAN,Course10,University18,School51,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-08-08,2024-08-27,2024-09-09,13.0,19.0
+a0QPm00000Hzwq5MAB,Course15,University9,School91,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-08-22,2024-09-05,2024-09-09,4.0,14.0
+a0QPm00000HzwwXMAR,Course35,University1,School91,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-08-22,2024-09-19,2024-09-09,-10.0,28.0
+a0QPm00000DhqjqMAB,Course9,University4,School33,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-09-09,2024-09-18,2024-09-09,-9.0,9.0
+a0QPm00000BxFWDMA3,Course35,University1,School327,0,Fall 2024,Admissions Drop,Offered,Accepted,2024-09-10,2024-09-27,2024-09-09,-18.0,17.0
+a0QDo000000B9UOMA0,Course42,University2,School152,0,Fall 2023,Admissions Drop,Offered,Accepted,2023-07-31,2023-11-30,2023-09-11,-80.0,122.0
+a0QDo0000020eyQMAQ,Course35,University1,School241,0,Fall 2023,Admissions Drop,Offered,Accepted,2023-08-17,2023-11-30,2023-09-11,-80.0,105.0
+a0QDo0000021HWqMAM,Course53,University24,School149,0,Fall 2023,Admissions Drop,Offered,Accepted,2023-09-07,2023-11-30,2023-09-11,-80.0,84.0
+a0QPm00000M6ztmMAB,Course50,University4,School352,15,Spring 2025,Dropped,Enrolling,Active,2025-02-10,,2025-02-03,,
+a0QPm00000M760nMAB,Course50,University4,School352,27,Spring 2025,Dropped,Enrolling,Active,2025-02-10,,2025-02-03,,
+a0QPm00000Mb7qhMAB,Course50,University4,School351,7,Spring 2025,Dropped,Enrolling,Active,2025-02-10,,2025-02-03,,
+a0QPm000005qwpsMAA,Course31,University25,School354,12,Spring 2024,Dropped,Enrolling,Active,2024-01-24,,2024-02-05,,
+a0QPm00000kAnwEMAS,Course66,University5,School500,0,Fall 2025,Admissions Drop,Enrolling,Active,2025-08-26,2025-08-29,2025-09-08,10.0,3.0
+a0QPm00000kYzHtMAK,Course51,University1,School262,0,Fall 2025,Admissions Drop,Enrolling,Active,2025-09-02,2025-10-28,2025-09-08,-50.0,56.0
+a0QDo000000c2NRMAY,Course63,University1,School438,14,Fall 2023,Dropped,Enrolling,Active,2023-11-15,,2023-09-11,,
+a0QDo000000c5kuMAA,Course63,University1,School43,20,Fall 2023,Dropped,Enrolling,Active,2023-11-15,,2023-09-11,,
+a0QDo000000c6k3MAA,Course25,University25,School311,0,Fall 2023,Admissions Drop,Enrolling,Active,2023-11-15,2024-02-12,2023-09-11,-154.0,89.0
+a0QDo000001FmNWMA0,Course51,University1,School42,3,Fall 2023,Dropped,Enrolling,Active,2023-11-15,,2023-09-11,,
+a0QDo000001GcnMMAS,Course52,University3,School462,17,Fall 2023,Dropped,Enrolling,Active,2023-11-15,,2023-09-11,,
+a0QDo000001GPWlMAO,Course42,University2,School41,19,Fall 2023,Dropped,Enrolling,Active,2023-11-15,,2023-09-11,,
+a0QPm00000YVFC5MAP,Course1,University14,School464,13,Fall 2025,Dropped,Enrolling,Admissions Drop,2025-08-20,,2025-09-08,,
+a0QPm00000zQB9bMAG,Course82,University14,School401,6,Spring 2026,Admissions Drop,Enrolling,Admissions Drop,2026-01-21,2026-01-21,2026-02-02,12.0,0.0
+a0QPm00000ZJnYkMAL,Course23,University4,School310,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-05-02,2025-05-02,2026-02-02,276.0,0.0
+a0QPm00000YeskWMAR,Course45,University24,School496,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-05-16,2025-05-16,2026-02-02,262.0,0.0
+a0QPm00000rpD4tMAE,Course53,University24,School257,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-11-25,2025-11-25,2026-02-02,69.0,0.0
+a0QPm00000rpD4lMAE,Course53,University24,School60,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-12-05,2025-12-05,2026-02-02,59.0,0.0
+a0QPm00000y5V5cMAE,Course16,University9,School575,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2026-01-08,2026-01-08,2026-02-02,25.0,0.0
+a0QPm00000iLaf7MAC,Course21,University24,School107,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-09-11,2025-09-11,2026-02-02,144.0,0.0
+a0QPm00000s87IDMAY,Course29,University24,School590,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-11-10,2025-11-10,2026-02-02,84.0,0.0
+a0QPm00000Uf6maMAB,Course80,University10,School442,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-09-29,2025-09-29,2026-02-02,126.0,0.0
+a0QPm00000UkQSsMAN,Course31,University25,School362,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-03-24,2025-03-24,,,0.0
+a0QPm00000ulKB7MAM,Course9,University4,School341,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-12-11,2025-12-11,2026-02-02,53.0,0.0
+a0QPm00000ulKUUMA2,Course3,University19,School341,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-12-04,2025-12-04,2026-02-02,60.0,0.0
+a0QPm00000v038LMAQ,Course65,University10,School416,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-12-12,2025-12-12,2026-02-02,52.0,0.0
+a0QPm00000VaU7NMAV,Course16,University9,School382,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-06-16,2025-06-16,2026-02-02,231.0,0.0
+a0QPm00000VDIEzMAP,Course42,University2,School527,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-10-07,2025-10-07,2026-02-02,118.0,0.0
+a0QPm00000vgd0xMAA,Course59,University7,School66,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-12-12,2025-12-12,2026-02-02,52.0,0.0
+a0QPm00000AU0PrMAL,Course77,University4,School331,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-04-25,2024-04-25,,,0.0
+a0QPm000009yoZUMAY,Course42,University2,School376,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-10-04,2024-10-04,2025-02-03,122.0,0.0
+a0QPm000009yx4rMAA,Course25,University25,School376,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-10-04,2024-10-04,2025-02-03,122.0,0.0
+a0QPm00000V2tUpMAJ,Course70,University1,School229,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-07-17,2025-07-17,,,0.0
+a0QPm00000hnDeTMAU,Course56,University4,School622,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-08-01,2025-08-01,2025-09-08,38.0,0.0
+a0QPm000004ue0UMAQ,Course35,University1,School281,0,Spring 2024,Admissions Drop,Enrolling,Admissions Drop,2024-01-12,2024-01-12,2024-02-05,24.0,0.0
+a0QPm00000UTURFMA5,Course44,University9,School464,0,Fall 2025,Admissions Drop,Enrolling,Admissions Drop,2025-04-10,2025-04-10,2025-09-08,151.0,0.0
+a0QPm00000VPLQnMAP,Course21,University24,School371,0,Spring 2026,Admissions Drop,Enrolling,Admissions Drop,2026-01-05,2026-01-05,2026-02-02,28.0,0.0
+a0QPm00000WhgnxMAB,Course31,University25,School556,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-04-17,2025-04-17,,,0.0
+a0QPm00000WvpMjMAJ,Course42,University2,School170,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-05-09,2025-05-09,2026-02-02,269.0,0.0
+a0QPm00000XJfpFMAT,Course13,University9,School374,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-07-14,2025-07-14,2026-02-02,203.0,0.0
+a0QPm00000Yhg0TMAR,Course51,University1,School606,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-04-24,2025-04-24,2026-02-02,284.0,0.0
+a0QPm00000ZqkSPMAZ,Course59,University7,School596,0,Spring 2026,Admissions Drop,Accepted,Admissions Drop,2025-09-29,2025-09-29,2026-02-02,126.0,0.0
+a0QPm00000M8Up4MAF,Course13,University9,School320,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-03,2024-12-03,2025-02-03,62.0,0.0
+a0QPm000009lCYPMA2,Course77,University4,School158,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-04-26,2024-04-26,,,0.0
+a0QPm000009ridfMAA,Course62,University1,School117,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-04,2024-12-04,2025-02-04,62.0,0.0
+a0QPm000009sbJxMAI,Course50,University4,School154,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-26,2024-11-26,2025-02-03,69.0,0.0
+a0QPm000009sbOnMAI,Course65,University10,School154,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-26,2024-11-26,2025-02-03,69.0,0.0
+a0QPm000009sH3ZMAU,Course21,University24,School154,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-26,2024-11-26,2025-02-03,69.0,0.0
+a0QPm000009xdfHMAQ,Course40,University9,School220,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-06,2024-11-06,2025-02-03,89.0,0.0
+a0QPm000009xhv0MAA,Course73,University15,School278,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-07,2024-11-07,2025-02-03,88.0,0.0
+a0QPm000009xkjBMAQ,Course9,University4,School220,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2025-01-02,2025-01-02,2025-02-03,32.0,0.0
+a0QPm000009xkXtMAI,Course35,University1,School220,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2025-01-02,2025-01-02,2025-02-03,32.0,0.0
+a0QPm000009xqgXMAQ,Course40,University9,School609,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-08-20,2024-08-20,2025-02-03,167.0,0.0
+a0QPm000009yoG8MAI,Course62,University1,School479,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-04,2024-12-04,2025-02-04,62.0,0.0
+a0QPm000009yScAMAU,Course62,University1,School47,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-07-25,2024-07-25,2025-02-04,194.0,0.0
+a0QPm00000A5zd2MAB,Course25,University25,School533,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-20,2024-11-20,2025-02-03,75.0,0.0
+a0QPm00000A7g4nMAB,Course16,University9,School395,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,2025-02-03,245.0,0.0
+a0QPm00000A7LBjMAN,Course25,University25,School585,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-07,2024-11-07,2025-02-03,88.0,0.0
+a0QPm00000A7SQ3MAN,Course79,University9,School585,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-07,2024-11-07,2025-02-03,88.0,0.0
+a0QPm00000AAwTkMAL,Course27,University22,School101,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,,,0.0
+a0QPm00000ABXivMAH,Course45,University24,School354,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-05-15,2024-05-15,2025-02-03,264.0,0.0
+a0QPm00000AC8fCMAT,Course3,University19,School246,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-04-05,2024-04-05,2025-02-03,304.0,0.0
+a0QPm00000AC8nFMAT,Course23,University4,School246,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-04-05,2024-04-05,2025-02-03,304.0,0.0
+a0QPm00000AJFOzMAP,Course27,University22,School43,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,,,0.0
+a0QPm00000AvVULMA3,Course13,University9,School201,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-11,2024-12-11,2025-02-03,54.0,0.0
+a0QPm00000BSuAbMAL,Course27,University22,School333,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,,,0.0
+a0QPm00000C1p6RMAR,Course16,University9,School298,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,2025-02-03,245.0,0.0
+a0QPm00000C9rm9MAB,Course80,University10,School326,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-05-06,2024-05-06,2025-02-03,273.0,0.0
+a0QPm00000CjLqzMAF,Course16,University9,School354,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-14,2024-06-14,2025-02-03,234.0,0.0
+a0QPm00000L6dAhMAJ,Course33,University15,School181,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-10,2024-12-10,2025-02-03,55.0,0.0
+a0QPm00000D9Ss1MAF,Course16,University9,School629,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-06-03,2024-06-03,2025-02-03,245.0,0.0
+a0QPm00000DktGXMAZ,Course3,University19,School282,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-13,2024-11-13,2025-02-03,82.0,0.0
+a0QPm00000IrVmTMAV,Course35,University1,School91,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-05,2024-11-05,2025-02-03,90.0,0.0
+a0QPm00000KSaTGMA1,Course33,University15,School556,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-10-21,2024-10-21,2025-02-03,105.0,0.0
+a0QPm00000LobGPMAZ,Course82,University14,School242,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-11,2024-12-11,2025-02-03,54.0,0.0
+a0QPm00000M8JLnMAN,Course82,University14,School403,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-12,2024-12-12,2025-02-03,53.0,0.0
+a0QPm00000MAlU2MAL,Course82,University14,School383,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-15,2024-11-15,2025-02-03,80.0,0.0
+a0QPm00000Mer5lMAB,Course9,University4,School40,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-10,2024-12-10,2025-02-03,55.0,0.0
+a0QPm00000MerddMAB,Course35,University1,School40,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-10,2024-12-10,2025-02-03,55.0,0.0
+a0QPm00000MUlQ7MAL,Course59,University7,School293,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-19,2024-11-19,2025-02-03,76.0,0.0
+a0QPm00000MUqZBMA1,Course59,University7,School293,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-11-19,2024-11-19,2025-02-03,76.0,0.0
+a0QPm00000MYUILMA5,Course13,University9,School362,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-20,2024-12-20,2025-02-03,45.0,0.0
+a0QPm00000NcTWvMAN,Course9,University4,School364,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-16,2024-12-16,2025-02-03,49.0,0.0
+a0QPm00000NVrjLMAT,Course51,University1,School451,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2024-12-09,2024-12-09,2025-02-03,56.0,0.0
+a0QPm00000ORG7iMAH,Course11,University2,School481,0,Spring 2025,Admissions Drop,Accepted,Admissions Drop,2025-01-14,2025-01-14,2025-02-03,20.0,0.0
+a0QDo000000AiPQMA0,Course25,University25,School545,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000BwwUMAS,Course25,University25,School547,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c208MAA,Course51,University1,School102,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c20DMAQ,Course41,University3,School521,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000000c23GMAQ,Course62,University1,School92,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000000c23TMAQ,Course62,University1,School270,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000000c27iMAA,Course82,University14,School521,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c28PMAQ,Course51,University1,School142,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c28qMAA,Course35,University1,School92,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c29iMAA,Course35,University1,School408,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c29nMAA,Course62,University1,School408,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000000c2N6MAI,Course13,University9,School312,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c2njMAA,Course35,University1,School626,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c2o7MAA,Course62,University1,School626,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000000c5jOMAQ,Course51,University1,School135,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c5kaMAA,Course35,University1,School206,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000c5koMAA,Course51,University1,School205,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000000CEt7MAG,Course25,University25,School298,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FcL0MAK,Course62,University1,School363,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000001FcL4MAK,Course51,University1,School363,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FcLAMA0,Course51,University1,School366,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FcLBMA0,Course9,University4,School574,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FlgPMAS,Course51,University1,School476,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FnT7MAK,Course35,University1,School513,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001FWkPMAW,Course25,University25,School594,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001GPWpMAO,Course13,University9,School494,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001GPWRMA4,Course62,University1,School494,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-06,-6.0,0.0
+a0QDo000001GPXjMAO,Course51,University1,School234,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001GWAaMAO,Course82,University14,School445,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000001GWBuMAO,Course31,University25,School539,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QDo000004CpAOMA0,Course9,University4,School210,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QPm000004g1wfMAA,Course25,University25,School444,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QPm000004YOjxMAG,Course51,University1,School318,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2024-02-05,-7.0,0.0
+a0QPm0000057QJ3MAM,Course36,University15,School461,0,Spring 2024,Admissions Drop,Accepted,Admissions Drop,2024-01-18,2024-01-18,,,0.0
+a0QPm00000V2XnfMAF,Course34,University4,School649,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-05-13,2025-05-13,2025-09-08,118.0,0.0
+a0QPm00000V73KHMAZ,Course72,University20,School120,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-08-14,2025-08-14,2025-09-08,25.0,0.0
+a0QPm00000UkB2TMAV,Course72,University20,School362,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-03-24,2025-03-24,2025-09-08,168.0,0.0
+a0QPm00000XYIsOMAX,Course51,University1,School464,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-04-22,2025-04-22,2025-09-08,139.0,0.0
+a0QPm00000YDT2GMAX,Course11,University2,School562,0,Fall 2025,Admissions Drop,Accepted,Admissions Drop,2025-08-14,2025-08-14,2025-09-08,25.0,0.0
+a0QPm00000HL6n0MAD,Course10,University18,School179,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-23,2024-10-23,2024-09-09,-44.0,0.0
+a0QPm000009lCTZMA2,Course25,University25,School158,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-04-26,2024-04-26,2024-09-09,136.0,0.0
+a0QPm000009roXlMAI,Course52,University3,School117,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-09,-49.0,0.0
+a0QPm000009xdF5MAI,Course36,University15,School220,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-23,-35.0,0.0
+a0QPm000009xfJiMAI,Course54,University7,School278,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-14,2024-08-14,2024-09-09,26.0,0.0
+a0QPm000009xhqAMAQ,Course51,University1,School278,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-14,2024-08-14,2024-09-09,26.0,0.0
+a0QPm000009xnZ1MAI,Course25,University25,School609,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-16,2024-08-16,2024-09-09,24.0,0.0
+a0QPm000009yTunMAE,Course52,University3,School47,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-07-25,2024-07-25,2024-09-09,46.0,0.0
+a0QPm000009z1oPMAQ,Course63,University1,School479,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-10,-48.0,0.0
+a0QPm00000A5zzZMAR,Course42,University2,School533,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-09,-49.0,0.0
+a0QPm00000A7Wv3MAF,Course35,University1,School585,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-14,2024-08-14,2024-09-09,26.0,0.0
+a0QPm00000A7X37MAF,Course42,University2,School585,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-14,2024-08-14,2024-09-09,26.0,0.0
+a0QPm00000AvU8UMAV,Course36,University15,School201,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-23,-35.0,0.0
+a0QPm00000C9rkXMAR,Course75,University10,School326,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-05-06,2024-05-06,2024-09-09,126.0,0.0
+a0QPm00000CFuxSMAT,Course63,University1,School160,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-12-06,2024-12-06,2024-09-10,-87.0,0.0
+a0QPm00000D9D50MAF,Course15,University9,School629,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-09,-49.0,0.0
+a0QPm00000D9T1hMAF,Course10,University18,School629,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-10-28,2024-10-28,2024-09-09,-49.0,0.0
+a0QPm00000Dsz8fMAB,Course9,University4,School358,0,Fall 2024,Admissions Drop,Accepted,Admissions Drop,2024-08-14,2024-08-14,2024-09-09,26.0,0.0
+a0QDo000000AEDgMAO,Course52,University3,School506,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000AEE5MAO,Course51,University1,School539,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000AEEoMAO,Course43,University24,School409,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000AgJOMA0,Course36,University15,School290,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-26,-65.0,0.0
+a0QDo000000AiPLMA0,Course42,University2,School545,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000Am6XMAS,Course52,University3,School118,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000Am9lMAC,Course51,University1,School289,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000AR5qMAG,Course54,University7,School413,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000Au8BMAS,Course63,University1,School564,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000AyZDMA0,Course63,University1,School268,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000B4PvMAK,Course63,University1,School300,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000BlOHMA0,Course36,University15,School435,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-26,-65.0,0.0
+a0QDo000000BpLDMA0,Course52,University3,School499,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-01-24,2024-01-24,2023-09-11,-135.0,0.0
+a0QDo000000BwrgMAC,Course63,University1,School511,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000BwvlMAC,Course63,University1,School377,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000BwwPMAS,Course42,University2,School547,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c1pSMAQ,Course35,University1,School516,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c1zvMAA,Course43,University24,School521,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c22hMAA,Course9,University4,School548,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c237MAA,Course63,University1,School92,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c23SMAQ,Course63,University1,School270,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c23VMAQ,Course35,University1,School431,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c23zMAA,Course63,University1,School430,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c245MAA,Course51,University1,School142,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c28OMAQ,Course63,University1,School142,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c294MAA,Course35,University1,School367,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c295MAA,Course35,University1,School92,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c29dMAA,Course35,University1,School408,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c29eMAA,Course63,University1,School408,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c29JMAQ,Course35,University1,School368,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c29kMAA,Course35,University1,School102,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c2ARMAY,Course35,University1,School548,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000000c5knMAA,Course63,University1,School205,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c5mMMAQ,Course13,University9,School213,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000CEsYMAW,Course13,University9,School298,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000CG4oMAG,Course24,University9,School633,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000001FcKgMAK,Course51,University1,School363,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FcKlMAK,Course25,University25,School552,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FcKzMAK,Course63,University1,School363,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FcLEMA0,Course35,University1,School366,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FcLJMA0,Course35,University1,School574,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FcLVMA0,Course43,University24,School609,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000001FlgcMAC,Course13,University9,School261,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000001FlggMAC,Course63,University1,School261,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000001FlhLMAS,Course63,University1,School476,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FnT6MAK,Course51,University1,School513,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001FWkjMAG,Course63,University1,School164,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-01-24,2024-01-24,2023-09-11,-135.0,0.0
+a0QDo000001FWkLMAW,Course51,University1,School594,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001GPWkMAO,Course42,University2,School494,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001GPWQMA4,Course63,University1,School494,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001GPY7MAO,Course35,University1,School234,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001GWAfMAO,Course43,University24,School445,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000001GWBOMA4,Course35,University1,School647,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2023-11-30,2023-11-30,2023-09-11,-80.0,0.0
+a0QDo000004CpA4MAK,Course13,University9,School210,0,Fall 2023,Admissions Drop,Accepted,Admissions Drop,2024-02-12,2024-02-12,2023-09-11,-154.0,0.0
+a0QDo000000c1wbMAA,Course62,University1,School625,0,Spring 2024,Admissions Drop,Accepted,Archived,2023-09-22,2024-01-24,2024-02-06,13.0,124.0
+a0QPm00000ARIfpMAH,Course10,University18,School547,12,Fall 2024,Dropped,Accepted,Dropped,2024-09-23,,2024-09-09,,
+a0QPm000004utlwMAA,Course42,University2,School95,4,Fall 2023,Dropped,Active,Dropped,2024-01-24,,2023-09-11,,
+a0QPm000004uzBbMAI,Course54,University7,School427,12,Fall 2023,Dropped,Active,Dropped,2024-01-24,,2023-09-11,,
+a0QPm00000V052fMAB,Course13,University9,School380,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-03-19,2025-12-10,2026-02-02,54.0,266.0
+a0QPm00000VxFKYMA3,Course70,University1,School573,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-03-24,2025-12-17,,,268.0
+a0QPm000009lEK5MAM,Course4,University15,School69,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-11,2025-02-03,54.0,68.0
+a0QPm000009zbqHMAQ,Course47,University3,School474,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-11-19,2025-02-03,76.0,46.0
+a0QPm000009zY1DMAU,Course46,University22,School474,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-06-04,,,67.0
+a0QPm00000VVHcEMAX,Course51,University1,School75,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-03-18,2025-05-05,2026-02-02,273.0,48.0
+a0QPm00000VVJB0MAP,Course26,University15,School75,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-03-18,2025-05-05,,,48.0
+a0QPm00000VVTBxMAP,Course73,University15,School75,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-03-18,2025-05-05,,,48.0
+a0QPm000009pLlBMAU,Course13,University9,School259,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-24,2024-09-09,47.0,117.0
+a0QPm000009pLurMAE,Course52,University3,School259,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-06-04,2024-09-09,97.0,67.0
+a0QPm000009sqyvMAA,Course52,University3,School324,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-29,2024-09-09,42.0,122.0
+a0QPm000009rxnxMAA,Course11,University2,School182,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-11-26,2025-02-03,69.0,53.0
+a0QPm00000A5EsbMAF,Course79,University9,School210,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2025-01-10,2025-02-03,24.0,98.0
+a0QPm00000pxJ1FMAU,Course8,University24,School131,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-28,2025-11-06,2026-02-02,88.0,9.0
+a0QPm00000rpD4rMAE,Course53,University24,School59,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-11-25,2025-12-02,2026-02-02,62.0,7.0
+a0QPm00000ui50bMAA,Course51,University1,School59,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-12-02,2025-12-02,2026-02-02,62.0,0.0
+a0QPm00000A5Ac6MAF,Course35,University1,School210,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-25,2024-09-09,46.0,118.0
+a0QPm00000xhAdIMAU,Course23,University4,School286,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-05,2026-01-12,2026-02-02,21.0,7.0
+a0QPm00000xhmVdMAI,Course51,University1,School286,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-05,2026-01-20,2026-02-02,13.0,15.0
+a0QPm00000xpHrGMAU,Course29,University24,School560,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-06,2026-01-09,2026-02-02,24.0,3.0
+a0QPm00000xyWuHMAU,Course48,University21,School126,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-07,2026-01-09,2026-02-02,24.0,2.0
+a0QPm00000b91E9MAI,Course9,University4,School208,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-01-14,2026-02-02,19.0,99.0
+a0QPm00000b9oTJMAY,Course35,University1,School208,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-01-21,2026-02-02,12.0,106.0
+a0QPm00000cpXvKMAU,Course13,University9,School515,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-30,2026-02-02,95.0,23.0
+a0QPm00000nPsp3MAC,Course30,University12,School400,2,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-02-02,2026-02-02,0.0,118.0
+a0QPm00000qfVmfMAE,Course35,University1,School75,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-30,2026-01-05,2026-02-02,28.0,67.0
+a0QPm00000qZWjpMAG,Course70,University1,School452,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-30,2025-11-10,,,11.0
+a0QPm00000rDNMrMAO,Course19,University1,School576,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-30,2026-01-21,2026-02-02,12.0,83.0
+a0QPm00000rpp0MMAQ,Course51,University1,School77,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-11-13,2025-12-03,2026-02-02,61.0,20.0
+a0QPm00000sDaszMAC,Course21,University24,School266,22,Spring 2026,Dropped,Accepted,Enrolling,2025-11-24,,2026-02-02,,
+a0QPm00000sKXVSMA4,Course79,University9,School374,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-11-07,2025-11-12,2026-02-02,82.0,5.0
+a0QPm00000UcafaMAB,Course33,University15,School341,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-08-08,2025-11-03,,,87.0
+a0QPm00000UeVBzMAN,Course4,University15,School341,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-08-08,2025-11-03,,,87.0
+a0QPm00000UewopMAB,Course65,University10,School341,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-08-08,2025-12-02,2026-02-02,62.0,116.0
+a0QPm000009lA0LMAU,Course25,University25,School468,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-10,2025-02-03,55.0,67.0
+a0QPm00000V9AEQMA3,Course33,University15,School507,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-03,,,27.0
+a0QPm00000VDX2kMAH,Course73,University15,School257,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-03,,,27.0
+a0QPm00000VDX4OMAX,Course26,University15,School216,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000VEv2zMAD,Course45,University24,School509,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-12,2026-02-02,52.0,66.0
+a0QPm00000VEvSnMAL,Course13,University9,School509,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-12,2026-02-02,52.0,66.0
+a0QPm00000VFELlMAP,Course26,University15,School28,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000vgqRBMAY,Course79,University9,School44,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-12-11,2025-12-12,2026-02-02,52.0,1.0
+a0QPm00000VlXRiMAN,Course26,University15,School531,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000VmqgrMAB,Course13,University9,School249,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-01-07,2026-02-02,26.0,92.0
+a0QPm00000VNfJyMAL,Course32,University7,School141,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-09,2026-02-02,55.0,63.0
+a0QPm00000VnT2EMAV,Course4,University15,School423,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-03,,,27.0
+a0QPm00000ARrbyMAD,Course42,University2,School273,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-25,2024-09-09,46.0,118.0
+a0QPm00000W3SlJMAV,Course73,University15,School14,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-03,,,27.0
+a0QPm00000W5CiuMAF,Course26,University15,School413,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000W9TehMAF,Course26,University15,School77,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000WAz9SMAT,Course26,University15,School656,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000WFkBNMA1,Course26,University15,School646,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-10-17,,,10.0
+a0QPm00000WGB1uMAH,Course47,University3,School591,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-05,2026-02-02,89.0,29.0
+a0QPm00000wK8jCMAS,Course11,University2,School282,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-12-18,2026-01-05,2026-02-02,28.0,18.0
+a0QPm00000XIWzKMAX,Course23,University4,School221,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-01,2026-02-02,63.0,55.0
+a0QPm00000xjabfMAA,Course23,University4,School381,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-06,2026-01-09,2026-02-02,24.0,3.0
+a0QPm00000xjbWAMAY,Course23,University4,School391,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-06,2026-01-09,2026-02-02,24.0,3.0
+a0QPm00000XQ0FvMAL,Course59,University7,School121,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-02,2026-02-02,62.0,56.0
+a0QPm00000y4NZnMAM,Course60,University1,School223,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2026-01-09,2026-01-12,2026-02-02,21.0,3.0
+a0QPm00000YDtUXMA1,Course80,University10,School562,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-18,2026-02-02,46.0,72.0
+a0QPm00000Yjzv0MAB,Course40,University9,School125,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-01-12,2026-02-02,21.0,97.0
+a0QPm00000AU35xMAD,Course13,University9,School331,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-04-08,2024-04-25,2024-09-09,137.0,17.0
+a0QPm00000AwTiEMAV,Course40,University9,School325,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-10,2025-02-03,55.0,67.0
+a0QPm00000Br1KbMAJ,Course39,University9,School334,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-06-05,2024-07-31,2024-09-09,40.0,56.0
+a0QPm000009rr7UMAQ,Course51,University1,School241,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-12,2025-02-03,53.0,69.0
+a0QPm000009rtScMAI,Course35,University1,School241,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-08-28,2024-09-05,2024-09-09,4.0,8.0
+a0QPm000009rv6EMAQ,Course75,University10,School241,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-08-28,2024-09-11,2024-09-09,-2.0,14.0
+a0QPm00000LtRDBMA3,Course62,University1,School164,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-11-22,2024-12-10,2025-02-04,56.0,18.0
+a0QPm00000ORSC5MAP,Course82,University14,School370,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2025-01-02,2025-01-13,2025-02-03,21.0,11.0
+a0QPm00000UfgjZMAR,Course16,University9,School6,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-13,2026-02-02,81.0,37.0
+a0QPm00000UOsqnMAD,Course74,University21,School137,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-03-24,2025-06-24,2025-09-08,76.0,92.0
+a0QPm00000UUGdyMAH,Course13,University9,School154,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-10,2026-02-02,84.0,34.0
+a0QPm00000VaLwvMAF,Course51,University1,School608,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-09,2025-08-06,2025-09-08,33.0,119.0
+a0QPm00000UO294MAD,Course79,University9,School30,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-11,2026-02-02,53.0,65.0
+a0QPm00000YWqPkMAL,Course40,University9,School346,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2026-01-06,2026-02-02,27.0,91.0
+a0QPm00000Z8QqoMAF,Course51,University1,School570,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-12-03,2026-02-02,61.0,57.0
+a0QPm00000Z8jGjMAJ,Course42,University2,School570,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-28,2025-08-11,2025-09-08,28.0,75.0
+a0QPm00000VN05WMAT,Course43,University24,School481,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-27,2025-05-30,2025-09-08,101.0,3.0
+a0QPm00000hkENOMA2,Course70,University1,School107,0,Spring 2026,Admissions Drop,Accepted,Enrolling,2025-10-07,2025-11-17,,,41.0
+a0QPm000009zxR2MAI,Course65,University10,School561,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-05,2025-02-03,60.0,62.0
+a0QPm00000A8lqPMAR,Course11,University2,School83,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-09,2025-02-03,56.0,66.0
+a0QPm00000AAhPKMA1,Course51,University1,School240,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-03,2025-02-03,62.0,60.0
+a0QPm00000AAvAXMA1,Course23,University4,School240,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-03,2025-02-03,62.0,60.0
+a0QPm00000ABiSzMAL,Course13,University9,School354,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-04,2025-02-03,61.0,61.0
+a0QPm00000AemcrMAB,Course11,University2,School63,10,Spring 2025,Dropped,Accepted,Enrolling,2024-10-04,,2025-02-03,,
+a0QPm00000AIbGJMA1,Course41,University3,School538,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-09,2025-02-03,56.0,66.0
+a0QPm00000AJjbZMAT,Course35,University1,School210,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2025-01-10,2025-02-03,24.0,98.0
+a0QPm00000AJwAbMAL,Course62,University1,School75,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-09,2025-02-04,57.0,66.0
+a0QPm00000AMIRzMAP,Course41,University3,School192,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-10-07,2025-02-03,119.0,3.0
+a0QPm00000AstueMAB,Course62,University1,School285,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-17,2025-02-04,49.0,74.0
+a0QPm00000AtPfzMAF,Course62,University1,School583,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-10-28,2025-02-04,99.0,24.0
+a0QPm00000BqyzRMAR,Course40,University9,School563,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-12-10,2025-02-03,55.0,67.0
+a0QPm00000Do4P7MAJ,Course42,University2,School474,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-11-19,2025-02-03,76.0,46.0
+a0QPm00000EI5kLMAT,Course42,University2,School43,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-04,2024-10-08,2025-02-03,118.0,4.0
+a0QPm00000Kh2npMAB,Course82,University14,School541,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-10-15,2024-11-15,2025-02-03,80.0,31.0
+a0QPm00000LlV14MAF,Course33,University15,School91,15,Spring 2025,Dropped,Accepted,Enrolling,2024-11-07,,2025-02-03,,
+a0QPm00000LlYJtMAN,Course9,University4,School91,16,Spring 2025,Dropped,Accepted,Enrolling,2024-11-07,,2025-02-03,,
+a0QPm00000LpobNMAR,Course82,University14,School281,11,Spring 2025,Dropped,Accepted,Enrolling,2024-11-07,,2025-02-03,,
+a0QPm00000LpoZlMAJ,Course79,University9,School281,11,Spring 2025,Dropped,Accepted,Enrolling,2024-11-07,,2025-02-03,,
+a0QPm00000NwvAOMAZ,Course65,University10,School188,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-12-19,2025-01-13,2025-02-03,21.0,25.0
+a0QPm00000NySSQMA3,Course65,University10,School608,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2024-12-13,2025-01-14,2025-02-03,20.0,32.0
+a0QPm00000Q6HvIMAV,Course59,University7,School365,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2025-01-13,2025-01-13,2025-02-03,21.0,0.0
+a0QPm00000Q6LFhMAN,Course3,University19,School365,0,Spring 2025,Admissions Drop,Accepted,Enrolling,2025-01-13,2025-01-17,2025-02-03,17.0,4.0
+a0QDo0000073xtLMAQ,Course31,University25,School504,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-16,2024-02-05,20.0,83.0
+a0QDo000000AEDlMAO,Course41,University3,School506,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000000AEFDMA4,Course45,University24,School289,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000AmcBMAS,Course25,University25,School551,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000BWvuMAG,Course42,University2,School617,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c1rFMAQ,Course51,University1,School145,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c20fMAA,Course51,University1,School163,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c20zMAA,Course51,University1,School436,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c22IMAQ,Course62,University1,School491,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000000c22wMAA,Course35,University1,School348,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c23aMAA,Course9,University4,School431,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c24FMAQ,Course13,University9,School554,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-12-19,2024-01-24,2024-02-05,12.0,36.0
+a0QDo000000c24oMAA,Course35,University1,School367,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c252MAA,Course62,University1,School404,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000000c27zMAA,Course51,University1,School348,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c297MAA,Course51,University1,School368,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c2A2MAI,Course35,University1,School491,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c2FhMAI,Course31,University25,School260,11,Spring 2024,Dropped,Accepted,Enrolling,2023-10-25,,2024-02-05,,
+a0QDo000000c2g5MAA,Course42,University2,School255,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c2GAMAY,Course31,University25,School222,30,Spring 2024,Dropped,Accepted,Enrolling,2023-10-25,,2024-02-05,,
+a0QDo000000c2HBMAY,Course31,University25,School591,9,Spring 2024,Dropped,Accepted,Enrolling,2023-10-25,,2024-02-05,,
+a0QDo000000c2NSMAY,Course62,University1,School438,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000000c2ntMAA,Course51,University1,School344,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c2QQMAY,Course51,University1,School345,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c4qLMAQ,Course35,University1,School243,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c5jhMAA,Course51,University1,School253,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000000c5kqMAA,Course62,University1,School2,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2023-12-18,2024-02-06,50.0,54.0
+a0QDo000001FhEpMAK,Course62,University1,School578,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000001FhEuMAK,Course51,University1,School578,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000001GcnRMAS,Course41,University3,School462,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000001GHzAMAW,Course25,University25,School429,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000001GPcvMAG,Course23,University4,School614,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000001GPWnMAO,Course62,University1,School614,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-06,19.0,85.0
+a0QDo000001GPXKMA4,Course13,University9,School614,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2024-01-18,2024-02-05,18.0,85.0
+a0QDo000001GW9EMAW,Course51,University1,School358,2,Spring 2024,Dropped,Accepted,Enrolling,2023-10-25,,2024-02-05,,
+a0QDo0000020Qh5MAE,Course23,University4,School183,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-10-25,2023-11-17,2024-02-05,80.0,23.0
+a0QDo0000074KYxMAM,Course64,University9,School42,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-14,2024-01-18,2024-02-05,18.0,65.0
+a0QDo0000075Iv7MAE,Course11,University2,School459,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-14,2023-12-14,2024-02-05,53.0,30.0
+a0QPm000004roXRMAY,Course62,University1,School300,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-17,2024-01-18,2024-02-06,19.0,62.0
+a0QPm000004x82TMAQ,Course45,University24,School288,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-17,2024-01-18,2024-02-05,18.0,62.0
+a0QPm000005B2YIMA0,Course32,University7,School175,9,Spring 2024,Dropped,Accepted,Enrolling,2023-11-29,,2024-02-05,,
+a0QPm000005lc3qMAA,Course62,University1,School311,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-12-05,2024-01-18,2024-02-06,19.0,44.0
+a0QPm000005RYM6MAO,Course31,University25,School105,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-29,2024-01-24,2024-02-05,12.0,56.0
+a0QPm000005xNycMAE,Course4,University15,School438,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-12-12,2024-01-18,2024-02-05,18.0,37.0
+a0QPm000005ZZRRMA4,Course48,University21,School511,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-11-30,2024-01-18,2024-02-05,18.0,49.0
+a0QPm000006HocsMAC,Course31,University25,School442,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-12-19,2024-01-24,2024-02-05,12.0,36.0
+a0QPm000006HqDHMA0,Course31,University25,School647,0,Spring 2024,Admissions Drop,Accepted,Enrolling,2023-12-19,2024-01-18,2024-02-05,18.0,30.0
+a0QPm00000a4bM2MAI,Course72,University20,School414,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-09,2025-05-28,2025-09-08,103.0,19.0
+a0QPm00000ai68DMAQ,Course25,University25,School344,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-16,2025-06-10,2025-09-08,90.0,25.0
+a0QPm00000eKL1HMAW,Course66,University5,School15,15,Fall 2025,Dropped,Accepted,Enrolling,2025-06-25,,2025-09-08,,
+a0QPm00000eqsi3MAA,Course50,University4,School491,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-07-01,2025-08-19,2025-09-08,20.0,49.0
+a0QPm00000f5bwzMAA,Course9,University4,School389,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-07-03,2025-07-17,2025-09-08,53.0,14.0
+a0QPm00000bKC9OMAW,Course50,University4,School495,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-23,2025-08-12,2025-09-08,27.0,81.0
+a0QPm00000bwA8CMAU,Course43,University24,School576,32,Fall 2025,Dropped,Accepted,Enrolling,2025-05-30,,2025-09-08,,
+a0QPm00000cmtNhMAI,Course35,University1,School251,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-06-09,2025-09-09,2025-09-08,-1.0,92.0
+a0QPm00000kwjByMAI,Course35,University1,School150,6,Fall 2025,Dropped,Accepted,Enrolling,2025-09-02,,2025-09-08,,
+a0QPm00000UsfOHMAZ,Course43,University24,School216,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-03-12,2025-03-14,2025-09-08,178.0,2.0
+a0QPm00000VV2yBMAT,Course53,University24,School75,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-03-18,2025-08-27,2025-09-08,12.0,162.0
+a0QPm00000VV6nGMAT,Course72,University20,School75,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-03-18,2025-09-08,2025-09-08,0.0,174.0
+a0QPm00000VyKoPMAV,Course13,University9,School621,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-03-24,2025-05-20,2025-09-08,111.0,57.0
+a0QPm00000WotOfMAJ,Course74,University21,School58,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-02,2025-08-18,2025-09-08,21.0,138.0
+a0QPm00000Wu1n0MAB,Course51,University1,School5,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-03,2025-10-28,2025-09-08,-50.0,208.0
+a0QPm00000XCrC3MAL,Course51,University1,School432,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-07,2025-04-21,2025-09-08,140.0,14.0
+a0QPm00000XJS8sMAH,Course51,University1,School374,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-08,2025-05-02,2025-09-08,129.0,24.0
+a0QPm00000YnvzFMAR,Course25,University25,School606,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-25,2025-07-01,2025-09-08,69.0,67.0
+a0QPm00000YX9DpMAL,Course74,University21,School556,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-04-22,2025-05-15,2025-09-08,116.0,23.0
+a0QPm00000ZSUtSMAX,Course72,University20,School374,0,Fall 2025,Admissions Drop,Accepted,Enrolling,2025-05-02,2025-06-09,2025-09-08,91.0,38.0
+a0QPm000009lEggMAE,Course63,University1,School27,16,Fall 2024,Dropped,Accepted,Enrolling,2024-03-29,,2024-09-10,,
+a0QPm000009nqjRMAQ,Course25,University25,School468,1,Fall 2024,Dropped,Accepted,Enrolling,2024-03-29,,2024-09-09,,
+a0QPm00000A06kPMAR,Course75,University10,School561,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-24,2024-09-09,47.0,117.0
+a0QPm00000A5nlXMAR,Course46,University22,School632,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-04-02,,,4.0
+a0QPm00000A8aqAMAR,Course13,University9,School83,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-08-28,2024-09-09,12.0,152.0
+a0QPm00000AB4z1MAD,Course25,University25,School459,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-08-15,2024-09-09,25.0,139.0
+a0QPm00000Aijy9MAB,Course25,University25,School348,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-30,2024-09-09,41.0,123.0
+a0QPm00000AJjGbMAL,Course13,University9,School210,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-08-13,2024-09-09,27.0,137.0
+a0QPm00000AJOldMAH,Course75,University10,School310,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-25,2024-09-09,46.0,118.0
+a0QPm00000ALkwgMAD,Course9,University4,School89,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-03-29,2024-07-09,2024-09-09,62.0,102.0
+a0QPm00000BdR6rMAF,Course15,University9,School4,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-04-26,2024-05-23,2024-09-09,109.0,27.0
+a0QPm00000BdRI9MAN,Course15,University9,School514,16,Fall 2024,Dropped,Accepted,Enrolling,2024-04-26,,2024-09-09,,
+a0QPm00000BScdVMAT,Course39,University9,School310,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-04-12,2024-08-30,2024-09-09,10.0,140.0
+a0QPm00000BSu0vMAD,Course34,University4,School333,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-04-12,2024-08-12,2024-09-09,28.0,122.0
+a0QPm00000CjHqcMAF,Course15,University9,School354,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-05-20,2024-06-14,2024-09-09,87.0,25.0
+a0QPm00000CRJZ8MAP,Course52,University3,School562,0,Fall 2024,Admissions Drop,Accepted,Enrolling,2024-05-14,2024-06-04,2024-09-09,97.0,21.0
+a0QDo000000c22PMAQ,Course13,University9,School451,0,Fall 2023,Admissions Drop,Accepted,Enrolling,2023-07-24,2023-11-30,2023-09-11,-80.0,129.0
+a0QDo000001zW3GMAU,Course43,University24,School451,0,Fall 2023,Admissions Drop,Accepted,Enrolling,2023-07-27,2023-11-30,2023-09-11,-80.0,126.0
+a0QDo0000020QhAMAU,Course13,University9,School183,0,Fall 2023,Admissions Drop,Accepted,Enrolling,2023-08-14,2023-11-30,2023-09-11,-80.0,108.0
+a0QDo000004Cc9AMAS,Course25,University25,School468,0,Fall 2023,Admissions Drop,Accepted,Enrolling,2023-08-14,2023-11-30,2023-09-11,-80.0,108.0
+a0QDo000000bzJpMAI,Course31,University25,School485,0,Spring 2023,Admissions Drop,,,,2024-03-04,2023-02-06,-392.0,
+a0QDo000000bzK4MAI,Course31,University25,School53,0,Spring 2023,Admissions Drop,,,,2024-03-04,2023-02-06,-392.0,
+a0QDo000000bzK9MAI,Course31,University25,School115,0,Spring 2023,Admissions Drop,,,,2024-03-04,2023-02-06,-392.0,
+a0QPm000004uyKGMAY,Course69,University15,School356,0,Spring 2022,Admissions Drop,,,,2024-02-12,2022-03-07,-707.0,
+a0QPm000004uuWzMAI,Course31,University25,School285,6,Fall 2022,Dropped,,,,,2022-09-12,,
