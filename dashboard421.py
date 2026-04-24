@@ -2,7 +2,7 @@
 SST Enrollment Forecasting Dashboard
 Run with: streamlit run sst_dashboard.py
 
-Requires:
+Requires (in same folder as this script):
   - course_thresholds.csv
   - school_risk_profile.csv
   - sst_intervention_flags.csv
@@ -13,22 +13,33 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+from pathlib import Path
+
+DATA_DIR = Path(__file__).parent  # CSVs must live in the same folder as this script
 
 st.set_page_config(page_title="NEON SST Enrollment Dashboard", layout="wide")
 
 @st.cache_data
 def load_data():
-    thresholds = pd.read_csv("course_thresholds.csv")
-    risk       = pd.read_csv("school_risk_profile.csv")
-    flags      = pd.read_csv("sst_intervention_flags.csv")
-    preds      = pd.read_csv("ca_enrollment_predictions.csv")
+    thresholds = pd.read_csv(DATA_DIR / "course_thresholds.csv")
+    risk       = pd.read_csv(DATA_DIR / "school_risk_profile.csv")
+    flags      = pd.read_csv(DATA_DIR / "sst_intervention_flags.csv")
+    preds      = pd.read_csv(DATA_DIR / "ca_enrollment_predictions.csv")
     return thresholds, risk, flags, preds
 
 thresholds, risk, flags, preds = load_data()
 
+def safe_cols(df, cols, fill=0):
+    """Select columns from df; missing ones are added with `fill` value."""
+    df = df.copy()
+    for c in cols:
+        if c not in df.columns:
+            df[c] = fill
+    return df[cols]
+
 TRUE_DROPS = ["Admissions Drop", "Dropped"]
-LATE_ENROLLER_THRESHOLD = 0.30  # 30%+ students enroll within 30 days of start
-LATE_DROPPER_THRESHOLD  = 0.40  # 40%+ drops happen within 30 days of start
+LATE_ENROLLER_THRESHOLD = 0.30
+LATE_DROPPER_THRESHOLD  = 0.40
 
 # Current actual enrollment per course-term
 current_actual = (
@@ -59,7 +70,6 @@ term_active_counts = thresholds.groupby("Term Name")["n_active_ca"].sum()
 CURRENT_TERMS = set(term_active_counts[term_active_counts > 0].index)
 all_terms     = sorted(thresholds["Term Name"].dropna().unique(), reverse=True)
 
-# Session state for selected course
 if "selected_course" not in st.session_state:
     st.session_state.selected_course = None
 
@@ -91,7 +101,6 @@ t["display_status"]    = t["display_fill_rate"].apply(
     lambda r: "Over" if r > 1.15 else ("Under" if r < 0.85 else "On Track")
 )
 
-# Sort within each status group descending by fill rate
 status_order = {"Over": 0, "On Track": 1, "Under": 2}
 t["status_order"] = t["display_status"].map(status_order)
 t = t.sort_values(["status_order", "display_fill_rate"], ascending=[True, False])
@@ -258,7 +267,7 @@ with tab1:
                     "% High Risk CAs":         "{:.0%}",
                     "Fill Rate":               "{:.1%}",
                 })
-                .applymap(
+                .map(                                          # fix: applymap → map
                     lambda v: "color: #E24B4A" if v == "Under"
                          else "color: #1D9E75" if v == "On Track"
                          else "color: #BA7517",
@@ -274,9 +283,9 @@ with tab1:
                 (preds["Term Name"]   == selected_term) &
                 (~preds["End Status"].isin(TRUE_DROPS))
             ].merge(
-                risk[["School Name","risk_final","survival_rate",
+                safe_cols(risk, ["School Name","risk_final","survival_rate",
                       "ca_drop_rate","ca_late_drop_rate",
-                      "late_enroll_rate","avg_participating_per_ca"]],
+                      "late_enroll_rate","avg_participating_per_ca"]),
                 on="School Name", how="left", suffixes=("_pred","")
             )
             if "risk_final_pred" in course_preds.columns:
@@ -312,7 +321,7 @@ with tab1:
                     "Expected (x survival)":   "{:.1f}",
                     "CA Drop Rate":            "{:.1%}",
                 })
-                .applymap(
+                .map(                                          # fix: applymap → map
                     lambda v: "color: #E24B4A" if v == "High"
                          else "color: #1D9E75" if v == "Low"
                          else "color: #BA7517",
@@ -385,7 +394,7 @@ with tab2:
                 "Avg_Survival":             "{:.1%}",
                 "Avg_Participating_per_CA": "{:.1f}",
             })
-            .applymap(
+            .map(                                              # fix: applymap → map
                 lambda v: "color: #E24B4A" if v == "High"
                      else "color: #1D9E75" if v == "Low"
                      else "color: #BA7517",
@@ -409,7 +418,7 @@ with tab2:
         st.dataframe(
             conversion_df.style
             .format({"Offer Conversion Rate": "{:.1%}"})
-            .applymap(
+            .map(                                              # fix: applymap → map
                 lambda v: "color: #E24B4A" if v == "High"
                      else "color: #1D9E75" if v == "Low"
                      else "color: #BA7517",
@@ -458,7 +467,7 @@ with tab3:
         st.success(f"No schools on watchlist for {selected_term}.")
     else:
         term_flags = term_flags.merge(
-            risk[["School Name","late_enroll_rate","ca_late_drop_rate","ca_drop_rate"]],
+            safe_cols(risk, ["School Name","late_enroll_rate","ca_late_drop_rate","ca_drop_rate"]),
             on="School Name", how="left"
         )
         term_flags["late_enroller"] = (
